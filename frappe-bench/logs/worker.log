@@ -772,3 +772,9 @@ Error while reading from 127.0.0.1:11000 : (104, 'Connection reset by peer')
 2025-04-24 10:22:39,375 Cleaning registries for queue: home-fy-Documents-GitHub-erpnext-frappe-bench:short
 2025-04-24 10:22:39,376 Cleaning registries for queue: home-fy-Documents-GitHub-erpnext-frappe-bench:default
 2025-04-24 10:22:39,378 Cleaning registries for queue: home-fy-Documents-GitHub-erpnext-frappe-bench:long
+2025-04-24 10:36:09,496 Cleaning registries for queue: home-fy-Documents-GitHub-erpnext-frappe-bench:short
+2025-04-24 10:36:09,501 Cleaning registries for queue: home-fy-Documents-GitHub-erpnext-frappe-bench:default
+2025-04-24 10:36:09,505 Cleaning registries for queue: home-fy-Documents-GitHub-erpnext-frappe-bench:long
+2025-04-24 10:49:39,627 Cleaning registries for queue: home-fy-Documents-GitHub-erpnext-frappe-bench:short
+2025-04-24 10:49:39,632 Cleaning registries for queue: home-fy-Documents-GitHub-erpnext-frappe-bench:default
+2025-04-24 10:49:39,636 Cleaning registries for queue: home-fy-Documents-GitHub-erpnext-frappe-bench:long
