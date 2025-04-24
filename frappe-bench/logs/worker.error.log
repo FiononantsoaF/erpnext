@@ -1,0 +1,323 @@
+2025-04-24 07:51:28,965 [Job erpnext.localhost||3e60a124-21a3-40cf-9ee4-8b08b4a7aa3b]: exception raised while executing (frappe.utils.background_jobs.execute_job)
+Traceback (most recent call last):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1643, in perform_job
+    return_value = job.perform()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1344, in perform
+    self._result = self._execute()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1378, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 243, in execute_job
+    frappe.init(site, force=True)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 270, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1371, in setup_module_map
+    for module in get_module_list(app):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1212, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1177, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1207, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1148, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+
+2025-04-24 07:51:28,981 [Job erpnext.localhost||f6c1508b-ff05-497c-a3bc-c1afcc3ac9b2]: exception raised while executing (frappe.utils.background_jobs.execute_job)
+Traceback (most recent call last):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1643, in perform_job
+    return_value = job.perform()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1344, in perform
+    self._result = self._execute()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1378, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 243, in execute_job
+    frappe.init(site, force=True)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 270, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1371, in setup_module_map
+    for module in get_module_list(app):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1212, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1177, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1207, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1148, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+
+2025-04-24 07:51:28,998 [Job erpnext.localhost||c8bfef78-5af1-44c2-a3b9-ad99b52fe7f1]: exception raised while executing (frappe.utils.background_jobs.execute_job)
+Traceback (most recent call last):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1643, in perform_job
+    return_value = job.perform()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1344, in perform
+    self._result = self._execute()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1378, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 243, in execute_job
+    frappe.init(site, force=True)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 270, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1371, in setup_module_map
+    for module in get_module_list(app):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1212, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1177, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1207, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1148, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+
+2025-04-24 07:51:29,016 [Job erpnext.localhost||b2e7a755-8625-40d1-ba82-c1541cae37fa]: exception raised while executing (frappe.utils.background_jobs.execute_job)
+Traceback (most recent call last):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1643, in perform_job
+    return_value = job.perform()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1344, in perform
+    self._result = self._execute()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1378, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 243, in execute_job
+    frappe.init(site, force=True)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 270, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1371, in setup_module_map
+    for module in get_module_list(app):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1212, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1177, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1207, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1148, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+
+2025-04-24 07:51:29,034 [Job erpnext.localhost||e6ee7fc5-35af-4c42-82d6-b8e6c79f548f]: exception raised while executing (frappe.utils.background_jobs.execute_job)
+Traceback (most recent call last):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1643, in perform_job
+    return_value = job.perform()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1344, in perform
+    self._result = self._execute()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1378, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 243, in execute_job
+    frappe.init(site, force=True)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 270, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1371, in setup_module_map
+    for module in get_module_list(app):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1212, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1177, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1207, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1148, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+
+2025-04-24 07:51:29,052 [Job erpnext.localhost||6a1c4d36-7d72-4990-ae28-8298988635d9]: exception raised while executing (frappe.utils.background_jobs.execute_job)
+Traceback (most recent call last):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1643, in perform_job
+    return_value = job.perform()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1344, in perform
+    self._result = self._execute()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1378, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 243, in execute_job
+    frappe.init(site, force=True)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 270, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1371, in setup_module_map
+    for module in get_module_list(app):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1212, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1177, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1207, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1148, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+
+2025-04-24 07:51:29,074 [Job erpnext.localhost||b7813e7b-2d60-4262-871a-bde61508770d]: exception raised while executing (frappe.utils.background_jobs.execute_job)
+Traceback (most recent call last):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1643, in perform_job
+    return_value = job.perform()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1344, in perform
+    self._result = self._execute()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1378, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 243, in execute_job
+    frappe.init(site, force=True)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 270, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1371, in setup_module_map
+    for module in get_module_list(app):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1212, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1177, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1207, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1148, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+
+2025-04-24 07:51:29,090 [Job erpnext.localhost||dfc6fdbb-444a-46f4-a5d2-d4768af2bab7]: exception raised while executing (frappe.utils.background_jobs.execute_job)
+Traceback (most recent call last):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1643, in perform_job
+    return_value = job.perform()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1344, in perform
+    self._result = self._execute()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1378, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 243, in execute_job
+    frappe.init(site, force=True)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 270, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1371, in setup_module_map
+    for module in get_module_list(app):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1212, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1177, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1207, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1148, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+
+2025-04-24 07:51:29,107 [Job erpnext.localhost||0e901b09-e55f-4e2b-8872-ac1a6adcf76e]: exception raised while executing (frappe.utils.background_jobs.execute_job)
+Traceback (most recent call last):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1643, in perform_job
+    return_value = job.perform()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1344, in perform
+    self._result = self._execute()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1378, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 243, in execute_job
+    frappe.init(site, force=True)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 270, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1371, in setup_module_map
+    for module in get_module_list(app):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1212, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1177, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1207, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1148, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+
+2025-04-24 07:51:29,124 [Job erpnext.localhost||6765dceb-b946-4920-91eb-37870d5b3d0e]: exception raised while executing (frappe.utils.background_jobs.execute_job)
+Traceback (most recent call last):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1643, in perform_job
+    return_value = job.perform()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1344, in perform
+    self._result = self._execute()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1378, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 243, in execute_job
+    frappe.init(site, force=True)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 270, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1371, in setup_module_map
+    for module in get_module_list(app):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1212, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1177, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1207, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1148, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+
+2025-04-24 07:51:29,142 [Job erpnext.localhost||c13cb2df-a056-49b7-9ac3-824ee6e897a2]: exception raised while executing (frappe.utils.background_jobs.execute_job)
+Traceback (most recent call last):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/worker.py", line 1643, in perform_job
+    return_value = job.perform()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1344, in perform
+    self._result = self._execute()
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/env/lib/python3.10/site-packages/rq/job.py", line 1378, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 243, in execute_job
+    frappe.init(site, force=True)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 270, in init
+    setup_module_map(include_all_apps=not (frappe.request or frappe.job or frappe.flags.in_migrate))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1371, in setup_module_map
+    for module in get_module_list(app):
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1212, in get_module_list
+    return get_file_items(get_app_path(app_name, "modules.txt"))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1177, in get_app_path
+    return get_pymodule_path(app_name, *joins)
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1207, in get_pymodule_path
+    return abspath(join(dirname(get_module(scrub(modulename)).__file__ or ""), *joins))
+  File "/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/frappe/frappe/__init__.py", line 1148, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'erpnext'
+
+/home/fy/Documents/GitHub/erpnext/frappe-bench/apps/erpnext/erpnext/accounts/utils.py:1114: V16FrappeDeprecationWarning: frappe.utils.data.get_number_format_info is deprecated.
+It was marked on unknown for removal from v16 with note: Use `NumberFormat.from_string()` from `frappe.utils.number_format` instead
+  precision = get_number_format_info(number_format)[2]
+2025-04-24 10:11:20,988 Could not connect to Redis instance: Connection closed by server. Retrying in 2 seconds...
