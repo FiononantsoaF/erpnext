@@ -109,3 +109,126 @@ Form Dict: {'module_name': 'Stock', 'selected_doctypes': '["Variant Field"]', 'c
 2025-04-28 22:05:45,204 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
 Form Dict: {'name': 'data', 'cmd': 'frappe.desk.desk_page.getpage'}
+2025-04-28 22:55:14,614 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_modules'}
+2025-04-28 22:57:42,010 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_modules'}
+2025-04-28 23:02:51,538 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_modules'}
+2025-04-28 23:20:45,501 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_modules'}
+2025-04-28 23:50:00,841 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'cmd': 'frappe.auth.get_logged_user'}
+2025-04-29 08:28:11,335 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_modules'}
+2025-04-29 08:58:27,293 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'module_name': 'Assets', 'cmd': 'erpnext.init_data.page.data.get_table_for_module'}
+2025-04-29 08:58:46,831 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'module_name': 'Stock', 'cmd': 'erpnext.init_data.page.data.get_table_for_module'}
+2025-04-29 09:10:23,064 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'module_name': 'Assets', 'cmd': 'erpnext.init_data.page.data.get_table_for_module'}
+2025-04-29 09:11:35,396 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'module_name': 'Buying', 'cmd': 'erpnext.init_data.page.data.get_table_for_module'}
+2025-04-29 09:18:44,087 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'module_name': 'Accounts', 'cmd': 'erpnext.init_data.page.data.get_table_for_module'}
+2025-04-29 09:35:51,061 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'table_names': '[null]', 'cmd': 'erpnext.init_data.page.data.delete_data_from_tables'}
+2025-04-29 09:36:44,798 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'module_name': 'CRM', 'cmd': 'data_init.get_module_doctypes'}
+2025-04-29 21:17:20,118 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_customer_detail'}
+2025-04-29 21:26:54,645 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_customer_detail'}
+2025-04-29 21:36:15,780 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Page","name":"new-page-pnmowudxon","__islocal":1,"__unsaved":1,"owner":"Administrator","system_page":0,"standard":"Yes","roles":[],"page_name":"customer","title":"customer","module":"init_data"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-04-29 22:00:48,900 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'name': 'erpnext.init_data.page.list_customer.generate_customer_pdf', 'cmd': 'frappe.desk.desk_page.getpage'}
+2025-04-29 22:02:49,244 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'name': 'erpnext.init_data.page.list_customer.generate_customer_pdf', 'cmd': 'frappe.desk.desk_page.getpage'}
+2025-04-29 22:04:30,797 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'customer_name': '[object Object]', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_pdf'}
+2025-04-29 22:05:22,744 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'customer_name': '[object Object]', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_pdf'}
+2025-04-29 22:12:40,702 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'cmd': 'erpnext.init_data.page.list_customer.list_customer.get_all_customer_detail'}
+2025-04-30 08:41:29,055 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'client': '{"client":"West View Software Ltd.","nombre_de_factures":2,"total_ventes":261000}', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_csv'}
+2025-04-30 08:47:34,592 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'client': '"%7B%22client%22%3A%22West%20View%20Software%20Ltd.%22%2C%22nombre_de_factures%22%3A2%2C%22total_ventes%22%3A261000%7D"', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_csv'}
+2025-04-30 08:47:39,200 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'client': '"%7B%22client%22%3A%22Grant%20Plastics%20Ltd.%22%2C%22nombre_de_factures%22%3A2%2C%22total_ventes%22%3A87000%7D"', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_csv'}
+2025-04-30 08:47:49,164 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'client': '"%7B%22client%22%3A%22Grant%20Plastics%20Ltd.%22%2C%22nombre_de_factures%22%3A2%2C%22total_ventes%22%3A87000%7D"', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_csv'}
+2025-04-30 08:49:17,212 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'client': '"%7B%22client%22%3A%22West%20View%20Software%20Ltd.%22%2C%22nombre_de_factures%22%3A2%2C%22total_ventes%22%3A261000%7D"', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_csv'}
+2025-04-30 08:54:16,952 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'client': 'West View Software Ltd.', 'nombre_de_factures': '2', 'total_ventes': '261000', 'cmd': 'erpnext.init_data.page.list_customer.download_customer_csv'}
+2025-04-30 08:54:21,078 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'cmd': 'file_uploader.bundle.D4TB5AWR.css.map'}
+2025-04-30 08:56:43,228 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'client': 'West View Software Ltd.', 'nombre_de_factures': '2', 'total_ventes': '261000', 'cmd': 'erpnext.init_data.page.list_customer.download_customer_csv'}
+2025-04-30 08:56:49,662 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'client': 'West View Software Ltd.', 'nombre_de_factures': '2', 'total_ventes': '261000', 'cmd': 'erpnext.init_data.page.list_customer.download_customer_csv'}
+2025-04-30 08:56:52,982 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'cmd': 'file_uploader.bundle.D4TB5AWR.css.map'}
+2025-04-30 08:58:48,762 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'client': 'NomClient', 'nombre_de_factures': '3', 'total_ventes': '120.50', 'cmd': 'erpnext.init_data.page.list_customer.download_customer_csv'}
+2025-04-30 08:59:00,012 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'cmd': 'file_uploader.bundle.D4TB5AWR.css.map'}
+2025-04-30 08:59:55,859 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'client': 'NomClient', 'nombre_de_factures': '3', 'total_ventes': '120.50', 'cmd': 'erpnext.init_data.page.list_customer.download_customer_csv'}
+2025-04-30 09:00:16,831 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'client': 'NomClient', 'nombre_de_factures': '3', 'total_ventes': '120.50', 'cmd': 'erpnext.init_data.page.list_customer.download_customer_csv'}
+2025-04-30 09:00:38,681 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'name': 'erpnext.init_data.page.list_customer.download_customer_csv', 'cmd': 'frappe.desk.desk_page.getpage'}
+2025-04-30 09:01:50,803 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'name': 'erpnext.init_data.page.list_customer.download_customer_csv', 'cmd': 'frappe.desk.desk_page.getpage'}
+2025-04-30 09:03:55,479 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'name': 'erpnext.init_data.page.list_customer.generate_customer_csv', 'cmd': 'frappe.desk.desk_page.getpage'}
+2025-04-30 09:04:21,752 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'cmd': 'frappe.desk.desk_page.getpage'}
+2025-04-30 09:05:58,899 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'name': 'erpnext.init_data.page.list_customer.generate_customer_csv', 'cmd': 'frappe.desk.desk_page.getpage'}
+2025-04-30 09:06:30,959 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'name': 'erpnext.init_data.page.list_customer.generate_customer_csv', 'cmd': 'frappe.desk.desk_page.getpage'}
