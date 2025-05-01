@@ -155,3 +155,8 @@
 2025-04-30 08:14:44,051 INFO /home/fy/.local/bin/bench schedule
 2025-04-30 08:14:44,063 INFO /home/fy/.local/bin/bench watch
 2025-04-30 08:14:44,076 INFO /home/fy/.local/bin/bench worker
+2025-05-01 09:01:24,364 INFO /home/fy/.local/bin/bench start
+2025-05-01 09:01:24,737 INFO /home/fy/.local/bin/bench worker
+2025-05-01 09:01:24,738 INFO /home/fy/.local/bin/bench watch
+2025-05-01 09:01:24,765 INFO /home/fy/.local/bin/bench schedule
+2025-05-01 09:01:24,816 INFO /home/fy/.local/bin/bench serve --port 8000
