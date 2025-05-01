@@ -232,3 +232,39 @@ Form Dict: {'name': 'erpnext.init_data.page.list_customer.generate_customer_csv'
 2025-04-30 09:06:30,959 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
 Form Dict: {'name': 'erpnext.init_data.page.list_customer.generate_customer_csv', 'cmd': 'frappe.desk.desk_page.getpage'}
+2025-05-01 12:22:49,184 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'doctype': 'Material Request', 'txt': '', 'filters': '{"docstatus":["!=",2],"supplier":"FOURNISSEUR1","company":"fy"}', 'filter_fields': '["company"]', 'page_length': '25', 'query': 'erpnext.stock.doctype.material_request.material_request.get_material_requests_based_on_supplier', 'as_dict': '1', 'cmd': 'frappe.desk.search.search_widget'}
+2025-05-01 15:20:04,072 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'limit_page_length': 20}
+2025-05-01 15:57:32,651 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Supplier","name":"new-supplier-okddaohdhb","__islocal":1,"__unsaved":1,"owner":"Administrator","naming_series":"SUP-.YYYY.-","country":"France","supplier_type":"Company","is_transporter":0,"is_internal_supplier":0,"companies":[],"language":"fr","accounts":[],"allow_purchase_invoice_creation_without_purchase_order":0,"allow_purchase_invoice_creation_without_purchase_receipt":0,"is_frozen":0,"disabled":0,"warn_rfqs":0,"warn_pos":0,"prevent_rfqs":0,"prevent_pos":0,"on_hold":0,"hold_type":"","portal_users":[],"__run_link_triggers":1,"supplier_name":"Zuckerman Security Ltd."}', 'cmd': 'frappe.client.save'}
+2025-05-01 15:57:52,032 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Supplier","name":"new-supplier-ezjukkekka","__islocal":1,"__unsaved":1,"owner":"Administrator","naming_series":"SUP-.YYYY.-","country":"France","supplier_type":"Company","is_transporter":0,"is_internal_supplier":0,"companies":[],"language":"fr","accounts":[],"allow_purchase_invoice_creation_without_purchase_order":0,"allow_purchase_invoice_creation_without_purchase_receipt":0,"is_frozen":0,"disabled":0,"warn_rfqs":0,"warn_pos":0,"prevent_rfqs":0,"prevent_pos":0,"on_hold":0,"hold_type":"","portal_users":[],"__run_link_triggers":1,"supplier_name":"FOURNISSEUR1"}', 'cmd': 'frappe.client.save'}
+2025-05-01 16:45:52,300 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'name': 'fournisseur', 'cmd': 'frappe.desk.desk_page.getpage'}
+2025-05-01 16:55:17,206 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'supplier_name': ''}
+2025-05-01 16:55:22,277 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'supplier_name': ''}
+2025-05-01 17:01:32,819 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'name': 'fournisseur', 'cmd': 'frappe.desk.desk_page.getpage'}
+2025-05-01 17:02:01,142 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'supplier_name': '', 'cmd': 'erpnext.buying.fournisseur.get_request_for_quotation_by_supplier'}
+2025-05-01 17:02:53,217 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'supplier_name': '', 'cmd': 'erpnext.buying.fournisseur.get_request_for_quotation_by_supplier'}
+2025-05-01 17:04:13,131 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'supplier_name': '', 'cmd': 'erpnext.buying.fournisseur.get_request_for_quotation_by_supplier'}
+2025-05-01 17:05:02,893 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'supplier_name': '', 'cmd': 'erpnext.buying.fournisseur.get_request_for_quotation_by_supplier'}
