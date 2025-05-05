@@ -1,564 +1,60 @@
-2025-04-28 09:00:00,575 ERROR frappe New Exception collected in error log
+2025-05-05 16:58:02,869 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'name': 'data', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-04-28 09:01:59,887 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'file_index': '3', 'cmd': 'erpnext.data_import.page.import_data.import.import_data'}
+2025-05-05 16:58:02,880 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'name': 'data', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-04-28 09:03:25,334 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\r\n02/05/2025,boulon,piece,02/06/2025,13,Purchase,All Warehouse,1\r\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2', 'file_name': 'import-fichier1.csv', 'file_index': '1', 'cmd': 'erpnext.data_import.page.import_data.import.import_data'}
+2025-05-05 16:58:02,882 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'name': 'data', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-04-28 09:03:56,755 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'file_index': '2', 'cmd': 'erpnext.data_import.page.import_data.import.import_data'}
+2025-05-05 17:00:23,376 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'name': 'data', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-04-28 09:17:29,452 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\r\n02/05/2025,boulon,piece,02/06/2025,13,Purchase,All Warehouse,1\r\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2', 'file_name': 'import-fichier1.csv', 'file_index': '1', 'cmd': 'erpnext.data_import.page.import_data.import.import_data'}
+2025-05-05 17:00:23,388 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'data_init.get_all_modules'}
-2025-04-28 09:17:52,531 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'file_index': '2', 'cmd': 'erpnext.data_import.page.import_data.import.import_data'}
+2025-05-05 17:00:23,393 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'data_init.get_all_modules'}
-2025-04-28 09:19:25,084 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'file_index': '3', 'cmd': 'erpnext.data_import.page.import_data.import.import_data'}
+2025-05-05 17:14:11,190 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'data_init.get_all_modules'}
-2025-04-28 09:22:49,358 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'file_index': '3', 'cmd': 'erpnext.data_import.page.import_data.import.import_data'}
+2025-05-05 17:14:11,192 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'data_init.get_all_modules'}
-2025-04-28 09:23:25,510 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'file_index': '2', 'cmd': 'erpnext.data_import.page.import_data.import.import_data'}
+2025-05-05 17:14:11,193 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'data_init.get_all_modules'}
-2025-04-28 09:26:58,540 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\r\n02/05/2025,boulon,piece,02/06/2025,13,Purchase,All Warehouse,1\r\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2', 'file_name': 'import-fichier1.csv', 'file_index': '1', 'cmd': 'erpnext.data_import.page.import_data.import.import_data'}
+2025-05-05 17:15:39,757 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'data_init.get_all_modules'}
-2025-04-28 09:34:16,540 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\r\n02/05/2025,boulon,piece,02/06/2025,13,Purchase,All Warehouse,1\r\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2', 'file_name': 'import-fichier1.csv', 'file_index': '1', 'cmd': 'erpnext.data_import.page.import_data.import.import_data'}
+2025-05-05 17:15:39,767 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'frappe.pages.data_init.data_init.get_all_modules'}
-2025-04-28 09:34:57,888 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'file_index': '2', 'cmd': 'erpnext.data_import.page.import_data.import.import_data'}
+2025-05-05 17:15:39,768 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'data_init.data_init.get_all_modules'}
-2025-04-28 09:38:50,422 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'file_index': '3', 'cmd': 'erpnext.data_import.page.import_data.import.import_data'}
+2025-05-05 17:16:58,272 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'data_init.data_init.get_all_modules'}
-2025-04-28 09:43:25,047 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'file_index': '2', 'cmd': 'erpnext.data_import.page.import.import_data'}
+2025-05-05 17:16:58,277 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'init_data.data_init.get_all_modules'}
-2025-04-28 09:45:45,184 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\r\n02/05/2025,boulon,piece,02/06/2025,13,Purchase,All Warehouse,1\r\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2', 'file_name': 'import-fichier1.csv', 'file_index': '1', 'cmd': 'erpnext.data_import.page.import.import_data'}
+2025-05-05 17:16:58,279 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'init_data.data_init.get_all_modules'}
-2025-04-28 09:46:27,000 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'file_index': '3', 'cmd': 'erpnext.data_import.page.import.import_data'}
+2025-05-05 17:18:48,901 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'init_data.data_init.get_all_modules'}
-2025-04-28 10:07:19,975 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'file_index': '3', 'cmd': 'erpnext.data_import.page.import.import_data'}
+2025-05-05 17:18:48,908 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'init_data.data_init.get_all_modules'}
-2025-04-28 10:07:30,953 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\r\n02/05/2025,boulon,piece,02/06/2025,13,Purchase,All Warehouse,1\r\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2', 'file_name': 'import-fichier1.csv', 'file_index': '1', 'cmd': 'erpnext.data_import.page.import.import_data'}
+2025-05-05 17:18:48,923 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'init_data.data_init.get_all_modules'}
-2025-04-28 10:10:39,998 ERROR frappe New Exception collected in error log
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'file_index': '2', 'cmd': 'erpnext.data_import.page.import.import_data'}
+2025-05-05 20:19:21,596 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data_init.get_all_modules'}
-2025-04-28 10:15:14,584 ERROR frappe New Exception collected in error log
+Form Dict: {'item': '0', 'material_request': '0', 'quotation': '0', 'supplier_quotation': '0', 'purchase_order': '0', 'purchase_invoice': '0', 'payment_entry': '0', 'purchase_receipt': '0', 'supplier': '1', 'cmd': 'custom_reset.api.reset_data'}
+2025-05-05 20:19:56,719 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data_init.get_all_modules'}
-2025-04-28 10:22:08,245 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.page.data_init.data_init.get_all_modules'}
-2025-04-28 10:22:39,600 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.page.data_init.data_init.get_all_modules'}
-2025-04-28 10:22:49,073 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.page.data_init.data_init.get_all_modules'}
-2025-04-28 10:23:15,420 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.page.init_data.data_init.data_init.get_all_modules'}
-2025-04-28 10:23:53,409 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'init_data.page.data_init.get_all_modules'}
-2025-04-28 10:26:46,165 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data_init.get_all_modules'}
-2025-04-28 10:27:27,929 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data_init.get_all_modules'}
-2025-04-28 10:28:31,200 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data_init.get_all_modules'}
-2025-04-28 10:30:09,884 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data_init.get_all_modules'}
-2025-04-28 10:30:51,496 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data_init.get_all_modules'}
-2025-04-28 10:42:15,789 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data_init.get_all_modules'}
-2025-04-28 10:42:41,044 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data_init.get_all_modules'}
-2025-04-28 11:00:28,740 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_modules'}
-2025-04-28 11:02:29,562 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_modules'}
-2025-04-28 11:12:58,569 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'module_name': 'Stock', 'confirm': 'true', 'cmd': 'erpnext.init_data.page.data.reset_module_data'}
-2025-04-28 11:17:31,664 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'module_name': 'Stock', 'selected_doctypes': '["Variant Field"]', 'confirm': 'true', 'cmd': 'erpnext.init_data.page.data.reset_module_data'}
-2025-04-28 22:05:45,204 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name': 'data', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-04-28 22:55:14,614 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_modules'}
-2025-04-28 22:57:42,010 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_modules'}
-2025-04-28 23:02:51,538 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_modules'}
-2025-04-28 23:20:45,501 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_modules'}
-2025-04-28 23:50:00,841 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'frappe.auth.get_logged_user'}
-2025-04-29 08:28:11,335 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_modules'}
-2025-04-29 08:58:27,293 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'module_name': 'Assets', 'cmd': 'erpnext.init_data.page.data.get_table_for_module'}
-2025-04-29 08:58:46,831 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'module_name': 'Stock', 'cmd': 'erpnext.init_data.page.data.get_table_for_module'}
-2025-04-29 09:10:23,064 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'module_name': 'Assets', 'cmd': 'erpnext.init_data.page.data.get_table_for_module'}
-2025-04-29 09:11:35,396 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'module_name': 'Buying', 'cmd': 'erpnext.init_data.page.data.get_table_for_module'}
-2025-04-29 09:18:44,087 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'module_name': 'Accounts', 'cmd': 'erpnext.init_data.page.data.get_table_for_module'}
-2025-04-29 09:35:51,061 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'table_names': '[null]', 'cmd': 'erpnext.init_data.page.data.delete_data_from_tables'}
-2025-04-29 09:36:44,798 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'module_name': 'CRM', 'cmd': 'data_init.get_module_doctypes'}
-2025-04-29 21:17:20,118 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_customer_detail'}
-2025-04-29 21:26:54,645 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.data.get_all_customer_detail'}
-2025-04-29 21:36:15,780 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"docstatus":0,"doctype":"Page","name":"new-page-pnmowudxon","__islocal":1,"__unsaved":1,"owner":"Administrator","system_page":0,"standard":"Yes","roles":[],"page_name":"customer","title":"customer","module":"init_data"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
-2025-04-29 22:00:48,900 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name': 'erpnext.init_data.page.list_customer.generate_customer_pdf', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-04-29 22:02:49,244 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name': 'erpnext.init_data.page.list_customer.generate_customer_pdf', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-04-29 22:04:30,797 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'customer_name': '[object Object]', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_pdf'}
-2025-04-29 22:05:22,744 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'customer_name': '[object Object]', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_pdf'}
-2025-04-29 22:12:40,702 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'erpnext.init_data.page.list_customer.list_customer.get_all_customer_detail'}
-2025-04-30 08:41:29,055 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'client': '{"client":"West View Software Ltd.","nombre_de_factures":2,"total_ventes":261000}', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_csv'}
-2025-04-30 08:47:34,592 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'client': '"%7B%22client%22%3A%22West%20View%20Software%20Ltd.%22%2C%22nombre_de_factures%22%3A2%2C%22total_ventes%22%3A261000%7D"', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_csv'}
-2025-04-30 08:47:39,200 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'client': '"%7B%22client%22%3A%22Grant%20Plastics%20Ltd.%22%2C%22nombre_de_factures%22%3A2%2C%22total_ventes%22%3A87000%7D"', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_csv'}
-2025-04-30 08:47:49,164 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'client': '"%7B%22client%22%3A%22Grant%20Plastics%20Ltd.%22%2C%22nombre_de_factures%22%3A2%2C%22total_ventes%22%3A87000%7D"', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_csv'}
-2025-04-30 08:49:17,212 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'client': '"%7B%22client%22%3A%22West%20View%20Software%20Ltd.%22%2C%22nombre_de_factures%22%3A2%2C%22total_ventes%22%3A261000%7D"', 'cmd': 'erpnext.init_data.page.list_customer.generate_customer_csv'}
-2025-04-30 08:54:16,952 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'client': 'West View Software Ltd.', 'nombre_de_factures': '2', 'total_ventes': '261000', 'cmd': 'erpnext.init_data.page.list_customer.download_customer_csv'}
-2025-04-30 08:54:21,078 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'file_uploader.bundle.D4TB5AWR.css.map'}
-2025-04-30 08:56:43,228 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'client': 'West View Software Ltd.', 'nombre_de_factures': '2', 'total_ventes': '261000', 'cmd': 'erpnext.init_data.page.list_customer.download_customer_csv'}
-2025-04-30 08:56:49,662 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'client': 'West View Software Ltd.', 'nombre_de_factures': '2', 'total_ventes': '261000', 'cmd': 'erpnext.init_data.page.list_customer.download_customer_csv'}
-2025-04-30 08:56:52,982 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'file_uploader.bundle.D4TB5AWR.css.map'}
-2025-04-30 08:58:48,762 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'client': 'NomClient', 'nombre_de_factures': '3', 'total_ventes': '120.50', 'cmd': 'erpnext.init_data.page.list_customer.download_customer_csv'}
-2025-04-30 08:59:00,012 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'file_uploader.bundle.D4TB5AWR.css.map'}
-2025-04-30 08:59:55,859 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'client': 'NomClient', 'nombre_de_factures': '3', 'total_ventes': '120.50', 'cmd': 'erpnext.init_data.page.list_customer.download_customer_csv'}
-2025-04-30 09:00:16,831 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'client': 'NomClient', 'nombre_de_factures': '3', 'total_ventes': '120.50', 'cmd': 'erpnext.init_data.page.list_customer.download_customer_csv'}
-2025-04-30 09:00:38,681 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name': 'erpnext.init_data.page.list_customer.download_customer_csv', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-04-30 09:01:50,803 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name': 'erpnext.init_data.page.list_customer.download_customer_csv', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-04-30 09:03:55,479 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name': 'erpnext.init_data.page.list_customer.generate_customer_csv', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-04-30 09:04:21,752 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'frappe.desk.desk_page.getpage'}
-2025-04-30 09:05:58,899 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name': 'erpnext.init_data.page.list_customer.generate_customer_csv', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-04-30 09:06:30,959 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name': 'erpnext.init_data.page.list_customer.generate_customer_csv', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-05-01 12:22:49,184 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doctype': 'Material Request', 'txt': '', 'filters': '{"docstatus":["!=",2],"supplier":"FOURNISSEUR1","company":"fy"}', 'filter_fields': '["company"]', 'page_length': '25', 'query': 'erpnext.stock.doctype.material_request.material_request.get_material_requests_based_on_supplier', 'as_dict': '1', 'cmd': 'frappe.desk.search.search_widget'}
-2025-05-01 15:20:04,072 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'limit_page_length': 20}
-2025-05-01 15:57:32,651 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"docstatus":0,"doctype":"Supplier","name":"new-supplier-okddaohdhb","__islocal":1,"__unsaved":1,"owner":"Administrator","naming_series":"SUP-.YYYY.-","country":"France","supplier_type":"Company","is_transporter":0,"is_internal_supplier":0,"companies":[],"language":"fr","accounts":[],"allow_purchase_invoice_creation_without_purchase_order":0,"allow_purchase_invoice_creation_without_purchase_receipt":0,"is_frozen":0,"disabled":0,"warn_rfqs":0,"warn_pos":0,"prevent_rfqs":0,"prevent_pos":0,"on_hold":0,"hold_type":"","portal_users":[],"__run_link_triggers":1,"supplier_name":"Zuckerman Security Ltd."}', 'cmd': 'frappe.client.save'}
-2025-05-01 15:57:52,032 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"docstatus":0,"doctype":"Supplier","name":"new-supplier-ezjukkekka","__islocal":1,"__unsaved":1,"owner":"Administrator","naming_series":"SUP-.YYYY.-","country":"France","supplier_type":"Company","is_transporter":0,"is_internal_supplier":0,"companies":[],"language":"fr","accounts":[],"allow_purchase_invoice_creation_without_purchase_order":0,"allow_purchase_invoice_creation_without_purchase_receipt":0,"is_frozen":0,"disabled":0,"warn_rfqs":0,"warn_pos":0,"prevent_rfqs":0,"prevent_pos":0,"on_hold":0,"hold_type":"","portal_users":[],"__run_link_triggers":1,"supplier_name":"FOURNISSEUR1"}', 'cmd': 'frappe.client.save'}
-2025-05-01 16:45:52,300 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name': 'fournisseur', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-05-01 16:55:17,206 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier_name': ''}
-2025-05-01 16:55:22,277 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier_name': ''}
-2025-05-01 17:01:32,819 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name': 'fournisseur', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-05-01 17:02:01,142 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier_name': '', 'cmd': 'erpnext.buying.fournisseur.get_request_for_quotation_by_supplier'}
-2025-05-01 17:02:53,217 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier_name': '', 'cmd': 'erpnext.buying.fournisseur.get_request_for_quotation_by_supplier'}
-2025-05-01 17:04:13,131 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier_name': '', 'cmd': 'erpnext.buying.fournisseur.get_request_for_quotation_by_supplier'}
-2025-05-01 17:05:02,893 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier_name': '', 'cmd': 'erpnext.buying.fournisseur.get_request_for_quotation_by_supplier'}
-2025-05-02 11:11:55,629 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {}
-2025-05-02 11:16:32,470 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {}
-2025-05-02 11:18:01,554 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {}
-2025-05-02 11:25:06,993 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {}
-2025-05-02 11:30:56,534 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {}
-2025-05-02 11:31:48,879 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {}
-2025-05-02 11:42:21,906 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {}
-2025-05-02 11:43:42,963 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'rate': 200}
-2025-05-02 11:49:59,021 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {}
-2025-05-02 11:51:56,099 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {}
-2025-05-02 11:54:43,589 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'rate': 300}
-2025-05-02 12:00:14,912 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doctype': 'Supplier Quotation', 'name': 'PUR-SQTN-2025-00004', 'cmd': 'frappe.client.delete'}
-2025-05-02 12:00:45,059 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'rate': 200}
-2025-05-02 12:01:46,809 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doctype': 'Supplier Quotation', 'name': 'PUR-SQTN-2025-00004', 'cmd': 'frappe.client.delete'}
-2025-05-02 13:46:59,526 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name_devis': 'PUR-SQTN-2025-00004', 'cmd': 'erpnext.buying.fournisseur.get_devis_by_id'}
-2025-05-02 14:51:47,160 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier': 'FOURNISSEUR1', 'cmd': 'erpnext.buying.fournisseur.get_purchase_orders_by_supplier'}
-2025-05-02 14:53:05,881 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier': 'FOURNISSEUR1', 'cmd': 'erpnext.buying.fournisseur.get_purchase_orders_by_supplier'}
-2025-05-02 14:56:04,790 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier': 'FOURNISSEUR1', 'cmd': 'erpnext.buying.fournisseur.get_purchase_orders_by_supplier'}
-2025-05-02 14:58:08,403 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier_name': 'FOURNISSEUR1', 'cmd': 'erpnext.buying.fournisseur.get_purchase_orders_by_supplier'}
-2025-05-02 14:59:49,953 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier_name': 'FOURNISSEUR1', 'cmd': 'erpnext.buying.fournisseur.get_purchase_orders_by_supplier'}
-2025-05-02 14:59:51,838 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier_name': 'FOURNISSEUR1', 'cmd': 'erpnext.buying.fournisseur.get_purchase_orders_by_supplier'}
-2025-05-02 15:00:02,449 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier_name': 'FOURNISSEUR1', 'cmd': 'erpnext.buying.fournisseur.get_purchase_orders_by_supplier'}
-2025-05-02 15:04:23,783 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier_name': 'FOURNISSEUR1', 'cmd': 'erpnext.buying.fournisseur.get_purchase_orders_by_supplier'}
-2025-05-02 15:04:37,034 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier_name': 'FOURNISSEUR1', 'cmd': 'erpnext.buying.fournisseur.get_purchase_orders_by_supplier'}
-2025-05-02 15:04:46,839 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'supplier_name': 'FOURNISSEUR1', 'cmd': 'erpnext.buying.fournisseur.get_purchase_orders_by_supplier'}
-2025-05-02 15:10:25,225 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"name":"PUR-ORD-2025-00013","owner":"Administrator","creation":"2025-05-02 14:10:16.791224","modified":"2025-05-02 14:10:16.791224","modified_by":"Administrator","docstatus":0,"idx":20,"title":"{supplier_name}","naming_series":"PUR-ORD-.YYYY.-","supplier":"FOURNISSEUR1","supplier_name":"FOURNISSEUR1","order_confirmation_no":null,"order_confirmation_date":null,"transaction_date":"2025-05-01","schedule_date":"2025-05-06","company":"fy","apply_tds":0,"tax_withholding_category":null,"is_subcontracted":0,"supplier_warehouse":null,"amended_from":null,"cost_center":null,"project":null,"currency":"EUR","conversion_rate":1,"buying_price_list":"Standard Buying","price_list_currency":"EUR","plc_conversion_rate":1,"ignore_pricing_rule":0,"scan_barcode":null,"set_from_warehouse":null,"set_warehouse":null,"total_qty":5,"total_net_weight":0,"base_total":1800,"base_net_total":1800,"total":1800,"net_total":1800,"tax_withholding_net_total":1800,"base_tax_withholding_net_total":1800,"set_reserve_warehouse":null,"tax_category":"","taxes_and_charges":null,"shipping_rule":null,"incoterm":null,"named_place":null,"base_taxes_and_charges_added":0,"base_taxes_and_charges_deducted":0,"base_total_taxes_and_charges":0,"taxes_and_charges_added":0,"taxes_and_charges_deducted":0,"total_taxes_and_charges":0,"base_grand_total":1800,"base_rounding_adjustment":0,"base_in_words":"EUR Mille Huit Cents only.","base_rounded_total":1800,"grand_total":1800,"rounding_adjustment":0,"rounded_total":1800,"disable_rounded_total":0,"in_words":"EUR Mille Huit Cents only.","advance_paid":0,"apply_discount_on":"Grand Total","base_discount_amount":0,"additional_discount_percentage":0,"discount_amount":0,"other_charges_calculation":null,"supplier_address":null,"address_display":null,"contact_person":null,"contact_display":null,"contact_mobile":null,"contact_email":null,"shipping_address":"","shipping_address_display":null,"billing_address":"","billing_address_display":null,"customer":null,"customer_name":null,"customer_contact_person":null,"customer_contact_display":null,"customer_contact_mobile":null,"customer_contact_email":null,"payment_terms_template":null,"tc_name":null,"terms":null,"status":"Draft","advance_payment_status":"Not Initiated","per_billed":0,"per_received":0,"letter_head":null,"group_same_items":0,"select_print_heading":null,"language":"fr","from_date":null,"to_date":null,"auto_repeat":null,"is_internal_supplier":0,"represents_company":"","ref_sq":"PUR-SQTN-2025-00004","party_account_currency":"EUR","inter_company_order_reference":null,"is_old_subcontracting_flow":0,"doctype":"Purchase Order","items":[{"name":"7co8oakvj5","owner":"Administrator","creation":"2025-05-02 14:10:16.791224","modified":"2025-05-02 14:10:16.791224","modified_by":"Administrator","docstatus":0,"idx":1,"fg_item":null,"fg_item_qty":0,"item_code":"SKU010","supplier_part_no":null,"item_name":"Camera","brand":null,"product_bundle":null,"schedule_date":"2025-05-06","expected_delivery_date":null,"item_group":"Products","description":"Camera","image":"https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg","qty":2,"stock_uom":"Nos","subcontracted_quantity":0,"uom":"Nos","conversion_factor":1,"stock_qty":2,"price_list_rate":500,"last_purchase_rate":500,"base_price_list_rate":500,"margin_type":"","margin_rate_or_amount":0,"rate_with_margin":0,"discount_percentage":0,"discount_amount":200,"distributed_discount_amount":0,"base_rate_with_margin":0,"rate":300,"amount":600,"item_tax_template":null,"base_rate":300,"base_amount":600,"pricing_rules":null,"stock_uom_rate":300,"is_free_item":0,"apply_tds":1,"net_rate":300,"net_amount":600,"base_net_rate":300,"base_net_amount":600,"from_warehouse":null,"warehouse":"Magasins - F","actual_qty":0,"company_total_stock":0,"material_request":"MAT-MR-2025-00002","material_request_item":"kp2dsav86s","sales_order":null,"sales_order_item":null,"sales_order_packed_item":null,"supplier_quotation":"PUR-SQTN-2025-00004","supplier_quotation_item":"2t5o545up4","delivered_by_supplier":0,"against_blanket_order":0,"blanket_order":null,"blanket_order_rate":0,"received_qty":0,"returned_qty":0,"billed_amt":0,"expense_account":"6072 - Marchandises (ou groupe) B - F","wip_composite_asset":null,"manufacturer":null,"manufacturer_part_no":null,"bom":null,"include_exploded_items":0,"weight_per_unit":0,"total_weight":0,"weight_uom":null,"project":null,"cost_center":"Principal - F","is_fixed_asset":0,"item_tax_rate":"{}","production_plan":null,"production_plan_item":null,"production_plan_sub_assembly_item":null,"page_break":0,"job_card":null,"parent":"PUR-ORD-2025-00013","parentfield":"items","parenttype":"Purchase Order","doctype":"Purchase Order Item","__unsaved":1},{"name":"7cofqfecq6","owner":"Administrator","creation":"2025-05-02 14:10:16.791224","modified":"2025-05-02 14:10:16.791224","modified_by":"Administrator","docstatus":0,"idx":2,"fg_item":null,"fg_item_qty":0,"item_code":"SKU001","supplier_part_no":null,"item_name":"T-shirt","brand":null,"product_bundle":null,"schedule_date":"2025-05-06","expected_delivery_date":null,"item_group":"Products","description":"T-shirt","image":"https://images.pexels.com/photos/1484808/pexels-photo-1484808.jpeg","qty":3,"stock_uom":"Nos","subcontracted_quantity":0,"uom":"Nos","conversion_factor":1,"stock_qty":3,"price_list_rate":400,"last_purchase_rate":400,"base_price_list_rate":400,"margin_type":"","margin_rate_or_amount":0,"rate_with_margin":0,"discount_percentage":0,"discount_amount":0,"distributed_discount_amount":0,"base_rate_with_margin":0,"rate":400,"amount":1200,"item_tax_template":null,"base_rate":400,"base_amount":1200,"pricing_rules":null,"stock_uom_rate":400,"is_free_item":0,"apply_tds":1,"net_rate":400,"net_amount":1200,"base_net_rate":400,"base_net_amount":1200,"from_warehouse":null,"warehouse":"Magasins - F","actual_qty":0,"company_total_stock":0,"material_request":"MAT-MR-2025-00002","material_request_item":"kp2327hrbg","sales_order":null,"sales_order_item":null,"sales_order_packed_item":null,"supplier_quotation":"PUR-SQTN-2025-00004","supplier_quotation_item":"2t5sbcpufh","delivered_by_supplier":0,"against_blanket_order":0,"blanket_order":null,"blanket_order_rate":0,"received_qty":0,"returned_qty":0,"billed_amt":0,"expense_account":"6072 - Marchandises (ou groupe) B - F","wip_composite_asset":null,"manufacturer":null,"manufacturer_part_no":null,"bom":null,"include_exploded_items":0,"weight_per_unit":0,"total_weight":0,"weight_uom":null,"project":null,"cost_center":"Principal - F","is_fixed_asset":0,"item_tax_rate":"{}","production_plan":null,"production_plan_item":null,"production_plan_sub_assembly_item":null,"page_break":0,"job_card":null,"parent":"PUR-ORD-2025-00013","parentfield":"items","parenttype":"Purchase Order","doctype":"Purchase Order Item","__unsaved":1}],"pricing_rules":[],"supplied_items":[],"taxes":[],"payment_schedule":[{"name":"7cp0qbskrt","owner":"Administrator","creation":"2025-05-02 14:10:16.901536","modified":"2025-05-02 14:10:16.901536","modified_by":"Administrator","docstatus":0,"idx":1,"payment_term":null,"description":null,"due_date":"2025-05-01","mode_of_payment":null,"invoice_portion":100,"discount_type":null,"discount_date":null,"discount":0,"payment_amount":1800,"outstanding":1800,"paid_amount":0,"discounted_amount":0,"base_payment_amount":1800,"base_outstanding":1800,"base_paid_amount":0,"parent":"PUR-ORD-2025-00013","parentfield":"payment_schedule","parenttype":"Purchase Order","doctype":"Payment Schedule"}],"__onload":{"supplier_tds":null,"can_update_items":true},"__last_sync_on":"2025-05-02T12:10:16.944Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
-2025-05-02 15:11:12,640 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"name":"PUR-ORD-2025-00013","owner":"Administrator","creation":"2025-05-02 14:10:16.791224","modified":"2025-05-02 14:10:16.791224","modified_by":"Administrator","docstatus":0,"idx":20,"title":"{supplier_name}","naming_series":"PUR-ORD-.YYYY.-","supplier":"FOURNISSEUR1","supplier_name":"FOURNISSEUR1","order_confirmation_no":null,"order_confirmation_date":null,"transaction_date":"2025-05-01","schedule_date":"2025-05-06","company":"fy","apply_tds":0,"tax_withholding_category":null,"is_subcontracted":0,"supplier_warehouse":null,"amended_from":null,"cost_center":null,"project":null,"currency":"EUR","conversion_rate":1,"buying_price_list":"Standard Buying","price_list_currency":"EUR","plc_conversion_rate":1,"ignore_pricing_rule":0,"scan_barcode":null,"set_from_warehouse":null,"set_warehouse":null,"total_qty":5,"total_net_weight":0,"base_total":1800,"base_net_total":1800,"total":1800,"net_total":1800,"tax_withholding_net_total":1800,"base_tax_withholding_net_total":1800,"set_reserve_warehouse":null,"tax_category":"","taxes_and_charges":null,"shipping_rule":null,"incoterm":null,"named_place":null,"base_taxes_and_charges_added":0,"base_taxes_and_charges_deducted":0,"base_total_taxes_and_charges":0,"taxes_and_charges_added":0,"taxes_and_charges_deducted":0,"total_taxes_and_charges":0,"base_grand_total":1800,"base_rounding_adjustment":0,"base_in_words":"EUR Mille Huit Cents only.","base_rounded_total":1800,"grand_total":1800,"rounding_adjustment":0,"rounded_total":1800,"disable_rounded_total":0,"in_words":"EUR Mille Huit Cents only.","advance_paid":0,"apply_discount_on":"Grand Total","base_discount_amount":0,"additional_discount_percentage":0,"discount_amount":0,"other_charges_calculation":null,"supplier_address":null,"address_display":null,"contact_person":null,"contact_display":null,"contact_mobile":null,"contact_email":null,"shipping_address":"","shipping_address_display":null,"billing_address":"","billing_address_display":null,"customer":null,"customer_name":null,"customer_contact_person":null,"customer_contact_display":null,"customer_contact_mobile":null,"customer_contact_email":null,"payment_terms_template":null,"tc_name":null,"terms":null,"status":"Draft","advance_payment_status":"Not Initiated","per_billed":0,"per_received":0,"letter_head":null,"group_same_items":0,"select_print_heading":null,"language":"fr","from_date":null,"to_date":null,"auto_repeat":null,"is_internal_supplier":0,"represents_company":"","ref_sq":"PUR-SQTN-2025-00004","party_account_currency":"EUR","inter_company_order_reference":null,"is_old_subcontracting_flow":0,"doctype":"Purchase Order","items":[{"name":"7co8oakvj5","owner":"Administrator","creation":"2025-05-02 14:10:16.791224","modified":"2025-05-02 14:10:16.791224","modified_by":"Administrator","docstatus":0,"idx":1,"fg_item":null,"fg_item_qty":0,"item_code":"SKU010","supplier_part_no":null,"item_name":"Camera","brand":null,"product_bundle":null,"schedule_date":"2025-05-06","expected_delivery_date":null,"item_group":"Products","description":"Camera","image":"https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg","qty":2,"stock_uom":"Nos","subcontracted_quantity":0,"uom":"Nos","conversion_factor":1,"stock_qty":2,"price_list_rate":500,"last_purchase_rate":500,"base_price_list_rate":500,"margin_type":"","margin_rate_or_amount":0,"rate_with_margin":0,"discount_percentage":0,"discount_amount":200,"distributed_discount_amount":0,"base_rate_with_margin":0,"rate":300,"amount":600,"item_tax_template":null,"base_rate":300,"base_amount":600,"pricing_rules":null,"stock_uom_rate":300,"is_free_item":0,"apply_tds":1,"net_rate":300,"net_amount":600,"base_net_rate":300,"base_net_amount":600,"from_warehouse":null,"warehouse":"Magasins - F","actual_qty":0,"company_total_stock":0,"material_request":"MAT-MR-2025-00002","material_request_item":"kp2dsav86s","sales_order":null,"sales_order_item":null,"sales_order_packed_item":null,"supplier_quotation":"PUR-SQTN-2025-00004","supplier_quotation_item":"2t5o545up4","delivered_by_supplier":0,"against_blanket_order":0,"blanket_order":null,"blanket_order_rate":0,"received_qty":0,"returned_qty":0,"billed_amt":0,"expense_account":"6072 - Marchandises (ou groupe) B - F","wip_composite_asset":null,"manufacturer":null,"manufacturer_part_no":null,"bom":null,"include_exploded_items":0,"weight_per_unit":0,"total_weight":0,"weight_uom":null,"project":null,"cost_center":"Principal - F","is_fixed_asset":0,"item_tax_rate":"{}","production_plan":null,"production_plan_item":null,"production_plan_sub_assembly_item":null,"page_break":0,"job_card":null,"parent":"PUR-ORD-2025-00013","parentfield":"items","parenttype":"Purchase Order","doctype":"Purchase Order Item","__unsaved":1},{"name":"7cofqfecq6","owner":"Administrator","creation":"2025-05-02 14:10:16.791224","modified":"2025-05-02 14:10:16.791224","modified_by":"Administrator","docstatus":0,"idx":2,"fg_item":null,"fg_item_qty":0,"item_code":"SKU001","supplier_part_no":null,"item_name":"T-shirt","brand":null,"product_bundle":null,"schedule_date":"2025-05-06","expected_delivery_date":null,"item_group":"Products","description":"T-shirt","image":"https://images.pexels.com/photos/1484808/pexels-photo-1484808.jpeg","qty":3,"stock_uom":"Nos","subcontracted_quantity":0,"uom":"Nos","conversion_factor":1,"stock_qty":3,"price_list_rate":400,"last_purchase_rate":400,"base_price_list_rate":400,"margin_type":"","margin_rate_or_amount":0,"rate_with_margin":0,"discount_percentage":0,"discount_amount":0,"distributed_discount_amount":0,"base_rate_with_margin":0,"rate":400,"amount":1200,"item_tax_template":null,"base_rate":400,"base_amount":1200,"pricing_rules":null,"stock_uom_rate":400,"is_free_item":0,"apply_tds":1,"net_rate":400,"net_amount":1200,"base_net_rate":400,"base_net_amount":1200,"from_warehouse":null,"warehouse":"Magasins - F","actual_qty":0,"company_total_stock":0,"material_request":"MAT-MR-2025-00002","material_request_item":"kp2327hrbg","sales_order":null,"sales_order_item":null,"sales_order_packed_item":null,"supplier_quotation":"PUR-SQTN-2025-00004","supplier_quotation_item":"2t5sbcpufh","delivered_by_supplier":0,"against_blanket_order":0,"blanket_order":null,"blanket_order_rate":0,"received_qty":0,"returned_qty":0,"billed_amt":0,"expense_account":"6072 - Marchandises (ou groupe) B - F","wip_composite_asset":null,"manufacturer":null,"manufacturer_part_no":null,"bom":null,"include_exploded_items":0,"weight_per_unit":0,"total_weight":0,"weight_uom":null,"project":null,"cost_center":"Principal - F","is_fixed_asset":0,"item_tax_rate":"{}","production_plan":null,"production_plan_item":null,"production_plan_sub_assembly_item":null,"page_break":0,"job_card":null,"parent":"PUR-ORD-2025-00013","parentfield":"items","parenttype":"Purchase Order","doctype":"Purchase Order Item","__unsaved":1}],"pricing_rules":[],"supplied_items":[],"taxes":[],"payment_schedule":[{"name":"7cp0qbskrt","owner":"Administrator","creation":"2025-05-02 14:10:16.901536","modified":"2025-05-02 14:10:16.901536","modified_by":"Administrator","docstatus":0,"idx":1,"payment_term":null,"description":null,"due_date":"2025-05-01","mode_of_payment":null,"invoice_portion":100,"discount_type":null,"discount_date":null,"discount":0,"payment_amount":1800,"outstanding":1800,"paid_amount":0,"discounted_amount":0,"base_payment_amount":1800,"base_outstanding":1800,"base_paid_amount":0,"parent":"PUR-ORD-2025-00013","parentfield":"payment_schedule","parenttype":"Purchase Order","doctype":"Payment Schedule"}],"__onload":{"supplier_tds":null,"can_update_items":true},"__last_sync_on":"2025-05-02T12:10:16.944Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
-2025-05-02 16:06:31,223 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"name":"PUR-ORD-2025-00013","owner":"Administrator","creation":"2025-05-02 14:10:16.791224","modified":"2025-05-02 14:10:16.791224","modified_by":"Administrator","docstatus":0,"idx":20,"title":"{supplier_name}","naming_series":"PUR-ORD-.YYYY.-","supplier":"FOURNISSEUR1","supplier_name":"FOURNISSEUR1","transaction_date":"2025-05-01","schedule_date":"2025-05-06","company":"fy","apply_tds":0,"is_subcontracted":0,"currency":"EUR","conversion_rate":1,"buying_price_list":"Standard Buying","price_list_currency":"EUR","plc_conversion_rate":1,"ignore_pricing_rule":0,"total_qty":5,"total_net_weight":0,"base_total":1800,"base_net_total":1800,"total":1800,"net_total":1800,"tax_withholding_net_total":1800,"base_tax_withholding_net_total":1800,"tax_category":"","base_taxes_and_charges_added":0,"base_taxes_and_charges_deducted":0,"base_total_taxes_and_charges":0,"taxes_and_charges_added":0,"taxes_and_charges_deducted":0,"total_taxes_and_charges":0,"base_grand_total":1800,"base_rounding_adjustment":0,"base_in_words":"EUR Mille Huit Cents only.","base_rounded_total":1800,"grand_total":1800,"rounding_adjustment":0,"rounded_total":1800,"disable_rounded_total":0,"in_words":"EUR Mille Huit Cents only.","advance_paid":0,"apply_discount_on":"Grand Total","base_discount_amount":0,"additional_discount_percentage":0,"discount_amount":0,"shipping_address":"","billing_address":"","status":"Draft","advance_payment_status":"Not Initiated","per_billed":0,"per_received":0,"group_same_items":0,"language":"fr","is_internal_supplier":0,"represents_company":"","ref_sq":"PUR-SQTN-2025-00004","party_account_currency":"EUR","is_old_subcontracting_flow":0,"doctype":"Purchase Order","items":[{"name":"7co8oakvj5","owner":"Administrator","creation":"2025-05-02 14:10:16.791224","modified":"2025-05-02 14:10:16.791224","modified_by":"Administrator","docstatus":0,"idx":1,"fg_item_qty":0,"item_code":"SKU010","item_name":"Camera","schedule_date":"2025-05-06","item_group":"Products","description":"Camera","image":"https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg","qty":2,"stock_uom":"Nos","subcontracted_quantity":0,"uom":"Nos","conversion_factor":1,"stock_qty":2,"price_list_rate":500,"last_purchase_rate":500,"base_price_list_rate":500,"margin_type":"","margin_rate_or_amount":0,"rate_with_margin":0,"discount_percentage":0,"discount_amount":200,"distributed_discount_amount":0,"base_rate_with_margin":0,"rate":300,"amount":600,"base_rate":300,"base_amount":600,"stock_uom_rate":300,"is_free_item":0,"apply_tds":1,"net_rate":300,"net_amount":600,"base_net_rate":300,"base_net_amount":600,"warehouse":"Magasins - F","actual_qty":0,"company_total_stock":0,"material_request":"MAT-MR-2025-00002","material_request_item":"kp2dsav86s","supplier_quotation":"PUR-SQTN-2025-00004","supplier_quotation_item":"2t5o545up4","delivered_by_supplier":0,"against_blanket_order":0,"blanket_order_rate":0,"received_qty":0,"returned_qty":0,"billed_amt":0,"expense_account":"6072 - Marchandises (ou groupe) B - F","include_exploded_items":0,"weight_per_unit":0,"total_weight":0,"cost_center":"Principal - F","is_fixed_asset":0,"item_tax_rate":"{}","page_break":0,"parent":"PUR-ORD-2025-00013","parentfield":"items","parenttype":"Purchase Order","doctype":"Purchase Order Item"},{"name":"7cofqfecq6","owner":"Administrator","creation":"2025-05-02 14:10:16.791224","modified":"2025-05-02 14:10:16.791224","modified_by":"Administrator","docstatus":0,"idx":2,"fg_item_qty":0,"item_code":"SKU001","item_name":"T-shirt","schedule_date":"2025-05-06","item_group":"Products","description":"T-shirt","image":"https://images.pexels.com/photos/1484808/pexels-photo-1484808.jpeg","qty":3,"stock_uom":"Nos","subcontracted_quantity":0,"uom":"Nos","conversion_factor":1,"stock_qty":3,"price_list_rate":400,"last_purchase_rate":400,"base_price_list_rate":400,"margin_type":"","margin_rate_or_amount":0,"rate_with_margin":0,"discount_percentage":0,"discount_amount":0,"distributed_discount_amount":0,"base_rate_with_margin":0,"rate":400,"amount":1200,"base_rate":400,"base_amount":1200,"stock_uom_rate":400,"is_free_item":0,"apply_tds":1,"net_rate":400,"net_amount":1200,"base_net_rate":400,"base_net_amount":1200,"warehouse":"Magasins - F","actual_qty":0,"company_total_stock":0,"material_request":"MAT-MR-2025-00002","material_request_item":"kp2327hrbg","supplier_quotation":"PUR-SQTN-2025-00004","supplier_quotation_item":"2t5sbcpufh","delivered_by_supplier":0,"against_blanket_order":0,"blanket_order_rate":0,"received_qty":0,"returned_qty":0,"billed_amt":0,"expense_account":"6072 - Marchandises (ou groupe) B - F","include_exploded_items":0,"weight_per_unit":0,"total_weight":0,"cost_center":"Principal - F","is_fixed_asset":0,"item_tax_rate":"{}","page_break":0,"parent":"PUR-ORD-2025-00013","parentfield":"items","parenttype":"Purchase Order","doctype":"Purchase Order Item"}],"pricing_rules":[],"supplied_items":[],"taxes":[],"payment_schedule":[{"name":"7cp0qbskrt","owner":"Administrator","creation":"2025-05-02 14:10:16.901536","modified":"2025-05-02 14:10:16.901536","modified_by":"Administrator","docstatus":0,"idx":1,"due_date":"2025-05-01","invoice_portion":100,"discount":0,"payment_amount":1800,"outstanding":1800,"paid_amount":0,"discounted_amount":0,"base_payment_amount":1800,"base_outstanding":1800,"base_paid_amount":0,"parent":"PUR-ORD-2025-00013","parentfield":"payment_schedule","parenttype":"Purchase Order","doctype":"Payment Schedule"}],"__onload":{"supplier_tds":null,"can_update_items":true},"__last_sync_on":"2025-05-02T13:06:27.020Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
-2025-05-02 16:58:40,917 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'fields': ['name', 'supplier', 'transaction_date', 'schedule_date'], 'filters': '[["supplier","=","FOURNISSEUR1"],["request_for_quotation","=","RFQ-2025-0001"]]', 'limit_page_length': 20}
-2025-05-02 17:02:06,863 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'fields': ['name', 'supplier', 'transaction_date'], 'filters': '[["supplier","=","FOURNISSEUR1"],["request_for_quotation","=","PUR-RFQ-2025-00001"]]', 'limit_page_length': 20}
-2025-05-02 21:27:31,553 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'fiononantsoarakotojaona@gmail.com'}
-2025-05-02 23:29:22,492 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'filters': "[['supplier', '=', 'FOURNISSEUR1']]", 'limit_page_length': 20}
-2025-05-02 23:49:50,935 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'filters': '[["items.purchase_order", "=", "PUR-ORD-2025-00012"]]', 'fields': ['name', 'status', 'outstanding_amount'], 'limit_page_length': 20}
-2025-05-02 23:59:17,868 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'filters': '[["purchase_order", "=", "PUR-ORD-2025-00012"]]', 'fields': ['name', 'parent', 'item_code', 'qty', 'rate', 'amount'], 'limit_page_length': 20}
-2025-05-03 00:08:17,316 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'filters': '[["purchase_order", "=", "PUR-ORD-2025-00012"]]', 'fields': ['name', 'parent', 'item_code', 'qty', 'rate', 'amount'], 'limit_page_length': 20}
-2025-05-03 00:13:27,147 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'filters': '[["purchase_order", "=", "PUR-ORD-2025-00012"]]', 'fields': ['name', 'status', 'total'], 'limit_page_length': 20}
-2025-05-03 00:16:43,014 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'filters': '[["supplier", "=", "FOURNISSEUR1"]]', 'fields': '["name", "status"'}
-2025-05-03 00:18:51,502 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'filters': '[["supplier", "=", "FOURNISSEUR1"]]', 'fields': '["name", "status"'}
-2025-05-03 00:19:00,147 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'filters': '[["supplier", "=", "FOURNISSEUR1"]]', 'fields': '["name", "status"'}
-2025-05-03 00:20:19,287 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'filters': '[["supplier", "=", "FOURNISSEUR1"]]', 'fields': '["name", "status"'}
-2025-05-03 00:26:15,800 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'filters': '[["supplier", "=", "FOURNISSEUR1"]]', 'fields': '["name", "status"'}
-2025-05-03 00:28:43,930 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'filters': '[["supplier", "=", "FOURNISSEUR1"]]', 'fields': ['name', 'status'], 'limit_page_length': 20}
-2025-05-03 01:04:21,110 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'filters': '[["parent", "=", "ACC-PINV-2025-00008"]]', 'fields': ['item_name', 'qty', 'rate', 'amount'], 'limit_page_length': 20}
-2025-05-03 12:21:07,939 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'fields': ['name', 'supplier', 'posting_date', 'due_date', 'status', 'currency', 'total', 'grand_total', 'paid_amount', 'outstanding_amount', 'items.item_code', 'items.item_name', 'items.qty', 'items.rate', 'items.amount', 'items.uom', 'items.purchase_order'], 'limit_page_length': 20}
-2025-05-03 12:28:20,286 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'fields': ['name', 'supplier', 'posting_date', 'due_date', 'status', 'currency', 'total', 'grand_total', 'paid_amount', 'outstanding_amount', 'items.item_code', 'items.item_name', 'items.qty', 'items.rate', 'items.amount', 'items.uom', 'items.purchase_order'], 'limit_page_length': 20}
-2025-05-03 13:40:48,651 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'fields': ['name', 'supplier', 'posting_date', 'due_date', 'status', 'currency', 'total', 'grand_total', 'paid_amount', 'outstanding_amount', 'items.item_code', 'items.item_name', 'items.qty', 'items.rate', 'items.amount', 'items.uom', 'items.purchase_order'], 'limit_page_length': 20}
-2025-05-03 13:41:26,962 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'fields': ['name', 'supplier', 'posting_date', 'due_date', 'status', 'currency', 'total', 'grand_total', 'paid_amount', 'outstanding_amount', 'items.item_code', 'items.item_name', 'items.qty', 'items.rate', 'items.amount', 'items.uom', 'items.purchase_order'], 'limit_page_length': 20}
-2025-05-03 13:49:16,253 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'fields': ['name', 'supplier', 'posting_date', 'due_date', 'status', 'currency', 'total', 'grand_total', 'paid_amount', 'outstanding_amount', 'items.item_code', 'items.item_name', 'items.qty', 'items.rate', 'items.amount', 'items.uom', 'items.purchase_order'], 'limit_page_length': 20}
-2025-05-03 14:11:39,687 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'fields': ['name', 'supplier', 'posting_date', 'due_date', 'status', 'currency', 'total', 'grand_total', 'paid_amount', 'outstanding_amount', 'items.item_code', 'items.item_name', 'items.qty', 'items.rate', 'items.amount', 'items.uom', 'items.purchase_order'], 'limit_page_length': 20}
-2025-05-03 14:21:12,955 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'fields': ['name', 'supplier', 'posting_date', 'due_date', 'status', 'currency', 'total', 'grand_total', 'paid_amount', 'outstanding_amount', 'items.item_code', 'items.item_name', 'items.qty', 'items.rate', 'items.amount', 'items.uom', 'items.purchase_order'], 'limit_page_length': 20}
-2025-05-03 16:29:32,273 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'rate': 500}
-2025-05-03 22:42:37,251 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': {'doctype': 'Payment Entry', 'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'FOURNISSEUR1', 'paid_from': 'Cash', 'paid_to': 'Creditors', 'paid_amount': 200, 'received_amount': 200, 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00008', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}], 'posting_date': '2025-05-03'}}
-2025-05-03 22:48:29,586 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'FOURNISSEUR1', 'paid_from': 'Cash', 'paid_to': 'Creditors', 'paid_amount': 200, 'received_amount': 200, 'reference_no': 'ACC-PINV-2025-00008', 'reference_date': '2025-05-03', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00008', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}]}
-2025-05-03 22:48:48,876 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'FOURNISSEUR1', 'paid_from': 'Cash', 'paid_to': 'Creditors', 'paid_amount': 200, 'received_amount': 200, 'reference_no': 'ACC-PINV-2025-00008', 'reference_date': '2025-05-03', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00008', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}]}
-2025-05-03 22:58:47,159 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'FOURNISSEUR1', 'paid_from': '5311 - Caisse en monnaie nationale - F', 'paid_to': '4011 - Fournisseurs - Achats de biens ou de prestations de services - F', 'paid_amount': 200, 'received_amount': 200, 'reference_no': 'ACC-PINV-2025-00008', 'reference_date': '2025-05-03', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00008', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}]}
-2025-05-03 23:03:57,153 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'FOURNISSEUR1', 'paid_amount': 200, 'received_amount': 200, 'reference_no': 'ACC-PINV-2025-00008', 'reference_date': '2025-05-03', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00008', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}]}
-2025-05-03 23:08:54,440 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'FOURNISSEUR1', 'paid_amount': 200, 'received_amount': 200, 'exchange_rate': 1.2, 'reference_no': 'ACC-PINV-2025-00008', 'reference_date': '2025-05-03', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00008', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}]}
-2025-05-03 23:11:13,914 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'FOURNISSEUR1', 'paid_amount': 200, 'received_amount': 200, 'source_exchange_rate': 1.2, 'reference_no': 'ACC-PINV-2025-00008', 'reference_date': '2025-05-03', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00008', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}]}
-2025-05-03 23:13:21,926 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'Summit Traders Ltd.', 'paid_amount': 200, 'received_amount': 200, 'source_exchange_rate': 1.2, 'reference_no': 'ACC-PINV-2025-00005', 'reference_date': '2025-05-03', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00005', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}]}
-2025-05-03 23:17:02,262 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"name":"PUR-ORD-2025-00015","owner":"Administrator","creation":"2025-05-03 22:16:49.266396","modified":"2025-05-03 22:16:49.266396","modified_by":"Administrator","docstatus":0,"idx":17,"title":"{supplier_name}","naming_series":"PUR-ORD-.YYYY.-","supplier":"FOURNISSEUR2","supplier_name":"FOURNISSEUR2","order_confirmation_no":null,"order_confirmation_date":null,"transaction_date":"2025-05-02","schedule_date":"2025-05-06","company":"fy","apply_tds":0,"tax_withholding_category":null,"is_subcontracted":0,"supplier_warehouse":null,"amended_from":null,"cost_center":null,"project":null,"currency":"EUR","conversion_rate":1,"buying_price_list":"Standard Buying","price_list_currency":"EUR","plc_conversion_rate":1,"ignore_pricing_rule":0,"scan_barcode":null,"set_from_warehouse":null,"set_warehouse":null,"total_qty":5,"total_net_weight":0,"base_total":2200,"base_net_total":2200,"total":2200,"net_total":2200,"tax_withholding_net_total":2200,"base_tax_withholding_net_total":2200,"set_reserve_warehouse":null,"tax_category":"","taxes_and_charges":null,"shipping_rule":null,"incoterm":null,"named_place":null,"base_taxes_and_charges_added":0,"base_taxes_and_charges_deducted":0,"base_total_taxes_and_charges":0,"taxes_and_charges_added":0,"taxes_and_charges_deducted":0,"total_taxes_and_charges":0,"base_grand_total":2200,"base_rounding_adjustment":0,"base_in_words":"EUR Deux Mille Deux Cents only.","base_rounded_total":2200,"grand_total":2200,"rounding_adjustment":0,"rounded_total":2200,"disable_rounded_total":0,"in_words":"EUR Deux Mille Deux Cents only.","advance_paid":0,"apply_discount_on":"Grand Total","base_discount_amount":0,"additional_discount_percentage":0,"discount_amount":0,"other_charges_calculation":null,"supplier_address":null,"address_display":null,"contact_person":null,"contact_display":null,"contact_mobile":null,"contact_email":null,"shipping_address":"","shipping_address_display":"","billing_address":"","billing_address_display":"","customer":null,"customer_name":null,"customer_contact_person":null,"customer_contact_display":null,"customer_contact_mobile":null,"customer_contact_email":null,"payment_terms_template":null,"tc_name":null,"terms":null,"status":"Draft","advance_payment_status":"Not Initiated","per_billed":0,"per_received":0,"letter_head":null,"group_same_items":0,"select_print_heading":null,"language":"fr","from_date":null,"to_date":null,"auto_repeat":null,"is_internal_supplier":0,"represents_company":"","ref_sq":"PUR-SQTN-2025-00007","party_account_currency":"EUR","inter_company_order_reference":null,"is_old_subcontracting_flow":0,"doctype":"Purchase Order","items":[{"name":"g7cubpemh2","owner":"Administrator","creation":"2025-05-03 22:16:49.266396","modified":"2025-05-03 22:16:49.266396","modified_by":"Administrator","docstatus":0,"idx":1,"fg_item":null,"fg_item_qty":0,"item_code":"SKU010","supplier_part_no":null,"item_name":"Camera","brand":null,"product_bundle":null,"schedule_date":"2025-05-06","expected_delivery_date":null,"item_group":"Products","description":"Camera","image":"https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg","qty":2,"stock_uom":"Nos","subcontracted_quantity":0,"uom":"Nos","conversion_factor":1,"stock_qty":2,"price_list_rate":500,"last_purchase_rate":500,"base_price_list_rate":500,"margin_type":"","margin_rate_or_amount":0,"rate_with_margin":0,"discount_percentage":0,"discount_amount":0,"distributed_discount_amount":0,"base_rate_with_margin":0,"rate":500,"amount":1000,"item_tax_template":null,"base_rate":500,"base_amount":1000,"pricing_rules":null,"stock_uom_rate":500,"is_free_item":0,"apply_tds":1,"net_rate":500,"net_amount":1000,"base_net_rate":500,"base_net_amount":1000,"from_warehouse":null,"warehouse":"Magasins - F","actual_qty":2,"company_total_stock":2,"material_request":"MAT-MR-2025-00001","material_request_item":"nno9armscr","sales_order":null,"sales_order_item":null,"sales_order_packed_item":null,"supplier_quotation":"PUR-SQTN-2025-00007","supplier_quotation_item":"fp5em5dq8q","delivered_by_supplier":0,"against_blanket_order":0,"blanket_order":null,"blanket_order_rate":0,"received_qty":0,"returned_qty":0,"billed_amt":0,"expense_account":"6072 - Marchandises (ou groupe) B - F","wip_composite_asset":null,"manufacturer":null,"manufacturer_part_no":null,"bom":null,"include_exploded_items":0,"weight_per_unit":0,"total_weight":0,"weight_uom":null,"project":null,"cost_center":"Principal - F","is_fixed_asset":0,"item_tax_rate":"{}","production_plan":null,"production_plan_item":null,"production_plan_sub_assembly_item":null,"page_break":0,"job_card":null,"parent":"PUR-ORD-2025-00015","parentfield":"items","parenttype":"Purchase Order","doctype":"Purchase Order Item","__unsaved":1},{"name":"g7cpa8klj2","owner":"Administrator","creation":"2025-05-03 22:16:49.266396","modified":"2025-05-03 22:16:49.266396","modified_by":"Administrator","docstatus":0,"idx":2,"fg_item":null,"fg_item_qty":0,"item_code":"SKU001","supplier_part_no":null,"item_name":"T-shirt","brand":null,"product_bundle":null,"schedule_date":"2025-05-06","expected_delivery_date":null,"item_group":"Products","description":"T-shirt","image":"https://images.pexels.com/photos/1484808/pexels-photo-1484808.jpeg","qty":3,"stock_uom":"Nos","subcontracted_quantity":0,"uom":"Nos","conversion_factor":1,"stock_qty":3,"price_list_rate":400,"last_purchase_rate":400,"base_price_list_rate":400,"margin_type":"","margin_rate_or_amount":0,"rate_with_margin":0,"discount_percentage":0,"discount_amount":0,"distributed_discount_amount":0,"base_rate_with_margin":0,"rate":400,"amount":1200,"item_tax_template":null,"base_rate":400,"base_amount":1200,"pricing_rules":null,"stock_uom_rate":400,"is_free_item":0,"apply_tds":1,"net_rate":400,"net_amount":1200,"base_net_rate":400,"base_net_amount":1200,"from_warehouse":null,"warehouse":"Magasins - F","actual_qty":3,"company_total_stock":3,"material_request":"MAT-MR-2025-00001","material_request_item":"nnotsj4bar","sales_order":null,"sales_order_item":null,"sales_order_packed_item":null,"supplier_quotation":"PUR-SQTN-2025-00007","supplier_quotation_item":"fp55amqebv","delivered_by_supplier":0,"against_blanket_order":0,"blanket_order":null,"blanket_order_rate":0,"received_qty":0,"returned_qty":0,"billed_amt":0,"expense_account":"6072 - Marchandises (ou groupe) B - F","wip_composite_asset":null,"manufacturer":null,"manufacturer_part_no":null,"bom":null,"include_exploded_items":0,"weight_per_unit":0,"total_weight":0,"weight_uom":null,"project":null,"cost_center":"Principal - F","is_fixed_asset":0,"item_tax_rate":"{}","production_plan":null,"production_plan_item":null,"production_plan_sub_assembly_item":null,"page_break":0,"job_card":null,"parent":"PUR-ORD-2025-00015","parentfield":"items","parenttype":"Purchase Order","doctype":"Purchase Order Item","__unsaved":1}],"pricing_rules":[],"supplied_items":[],"taxes":[],"payment_schedule":[{"name":"g7d6aahhca","owner":"Administrator","creation":"2025-05-03 22:16:49.399225","modified":"2025-05-03 22:16:49.399225","modified_by":"Administrator","docstatus":0,"idx":1,"payment_term":null,"description":null,"due_date":"2025-05-02","mode_of_payment":null,"invoice_portion":100,"discount_type":null,"discount_date":null,"discount":0,"payment_amount":2200,"outstanding":2200,"paid_amount":0,"discounted_amount":0,"base_payment_amount":2200,"base_outstanding":2200,"base_paid_amount":0,"parent":"PUR-ORD-2025-00015","parentfield":"payment_schedule","parenttype":"Purchase Order","doctype":"Payment Schedule"}],"__onload":{"supplier_tds":null,"can_update_items":true},"__last_sync_on":"2025-05-03T20:16:49.426Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
-2025-05-03 23:27:13,193 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'table_names': '["Sales Order"]', 'cmd': 'erpnext.init_data.page.data.delete_data_from_tables'}
-2025-05-03 23:34:43,446 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'table_names': '["Purchase Order","Request for Quotation","Supplier","Supplier Quotation"]', 'cmd': 'erpnext.init_data.page.data.delete_data_from_tables'}
-2025-05-03 23:37:26,020 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'table_names': '["Purchase Order","Request for Quotation"]', 'cmd': 'erpnext.init_data.page.data.delete_data_from_tables'}
-2025-05-03 23:37:54,875 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'module_name': 'Buying', 'cmd': 'erpnext.init_data.page.data.get_module_doctypes'}
-2025-05-03 23:38:44,075 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'module_name': 'Buying', 'cmd': 'erpnext.init_data.page.data.get_module_doctypes'}
-2025-05-03 23:40:27,685 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'table_names': '["Supplier Quotation"]', 'cmd': 'erpnext.init_data.page.data.delete_data_from_tables'}
-2025-05-03 23:40:56,946 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'table_names': '["Supplier Quotation"]', 'cmd': 'erpnext.init_data.page.data.delete_data_from_tables'}
-2025-05-03 23:41:09,186 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'table_names': '["Purchase Order"]', 'cmd': 'erpnext.init_data.page.data.delete_data_from_tables'}
-2025-05-03 23:43:15,692 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'table_names': '["Supplier Quotation"]', 'cmd': 'erpnext.init_data.page.data.delete_data_from_tables'}
-2025-05-03 23:43:56,635 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'table_names': '["Supplier Quotation"]', 'cmd': 'erpnext.init_data.page.data.delete_data_from_tables'}
-2025-05-03 23:44:55,455 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'module_name': 'Buying', 'cmd': 'erpnext.init_data.page.data.get_module_doctypes'}
-2025-05-04 00:14:25,160 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'fournisseur1', 'paid_amount': 200, 'received_amount': 200, 'source_exchange_rate': 1.2, 'reference_no': 'ACC-PINV-2025-00009', 'reference_date': '2025-05-04', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00009', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}]}
-2025-05-04 00:21:48,581 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'fournisseur1', 'paid_amount': 200, 'received_amount': 200, 'source_exchange_rate': 1.2, 'reference_no': 'ACC-PINV-2025-00009', 'reference_date': '2025-05-04', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00009', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}]}
-2025-05-04 00:23:25,480 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'fournisseur1', 'paid_amount': 100, 'received_amount': 100, 'source_exchange_rate': 1.2, 'reference_no': 'ACC-PINV-2025-00009', 'reference_date': '2025-05-04', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00009', 'total_amount': 100, 'outstanding_amount': 100, 'allocated_amount': 100}]}
-2025-05-04 10:11:04,170 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'docs': '[{"doctype":"Purchase Invoice","name":"ACC-PINV-2025-00009","docstatus":1},{"doctype":"Supplier Quotation","name":"PUR-SQTN-2025-00008","docstatus":1},{"doctype":"Request for Quotation","name":"PUR-RFQ-2025-00003","docstatus":1},{"doctype":"Purchase Order","name":"PUR-ORD-2025-00016","docstatus":1},{"doctype":"Purchase Order","name":"PUR-ORD-2025-00016","docstatus":1}]', 'ignore_doctypes_on_cancel_all': '["Serial and Batch Bundle"]', 'cmd': 'frappe.desk.form.linked_with.cancel_all_linked_docs'}
-2025-05-04 10:11:59,888 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doctype': 'Purchase Invoice', 'name': 'ACC-PINV-2025-00009', 'cmd': 'frappe.client.delete'}
-2025-05-04 10:18:32,863 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'fournisseur1', 'paid_amount': 200, 'received_amount': 200, 'source_exchange_rate': 1.2, 'reference_no': 'ACC-PINV-2025-00009', 'reference_date': '2025-05-04', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00009', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}]}
-2025-05-04 10:20:05,626 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"docstatus":0,"doctype":"Purchase Invoice","name":"new-purchase-invoice-rjlifkgklq","__islocal":1,"__unsaved":1,"owner":"Administrator","naming_series":"ACC-PINV-.YYYY.-","company":"fy","posting_date":"2025-05-03","set_posting_time":0,"is_paid":0,"is_return":0,"update_outstanding_for_self":1,"update_billed_amount_in_purchase_order":0,"update_billed_amount_in_purchase_receipt":1,"apply_tds":0,"currency":"EUR","use_transaction_date_exchange_rate":0,"buying_price_list":"Standard Buying","price_list_currency":"EUR","ignore_pricing_rule":0,"update_stock":0,"is_subcontracted":0,"items":[{"docstatus":0,"doctype":"Purchase Invoice Item","name":"new-purchase-invoice-item-btxzxvhhzd","__islocal":1,"__unsaved":1,"owner":"Administrator","conversion_factor":1,"stock_uom":"Nos","margin_type":"","is_free_item":0,"apply_tds":1,"use_serial_batch_fields":1,"is_fixed_asset":0,"enable_deferred_expense":0,"allow_zero_valuation_rate":0,"include_exploded_items":0,"cost_center":"Principal - F","page_break":0,"parent":"new-purchase-invoice-rjlifkgklq","parentfield":"items","parenttype":"Purchase Invoice","idx":1,"item_code":"SKU010","item_name":"Camera","description":"Camera","item_group":"Products","image":"https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg","received_qty":0,"qty":1,"rejected_qty":0,"uom":"Nos","stock_qty":1,"price_list_rate":500,"base_price_list_rate":500,"margin_rate_or_amount":0,"rate_with_margin":0,"discount_percentage":0,"discount_amount":0,"distributed_discount_amount":0,"base_rate_with_margin":0,"rate":500,"amount":500,"base_rate":500,"base_amount":500,"stock_uom_rate":500,"net_rate":500,"net_amount":500,"base_net_rate":500,"base_net_amount":500,"valuation_rate":500,"sales_incoming_rate":0,"item_tax_amount":0,"landed_cost_voucher_amount":0,"rm_supp_cost":0,"warehouse":"Magasins - F","expense_account":"4088 - Fournisseurs - Intérêts courus - F","item_tax_rate":"{}","purchase_order":"PUR-ORD-2025-00016","po_detail":"h4vnegk3ik","material_request":"MAT-MR-2025-00003","material_request_item":"f1c0iq5n1j","weight_per_unit":0,"total_weight":0,"creation":"","modified_by":"Administrator","modified":"","lft":null,"rgt":null,"_amended_from":"hk0ctf7i56","has_margin":false,"child_docname":"new-purchase-invoice-item-btxzxvhhzd"}],"tax_withholding_net_total":500,"taxes":[],"use_company_roundoff_cost_center":0,"disable_rounded_total":0,"apply_discount_on":"Grand Total","tax_withheld_vouchers":[],"pricing_rules":[],"supplied_items":[],"allocate_advances_automatically":0,"only_include_allocated_payments":0,"advances":[],"advance_tax":[],"ignore_default_payment_terms_template":0,"payment_schedule":[{"docstatus":0,"doctype":"Payment Schedule","name":"new-payment-schedule-tuyparfrxf","__islocal":1,"__unsaved":1,"owner":"Administrator","discount_type":"Percentage","discounted_amount":0,"parent":"new-purchase-invoice-rjlifkgklq","parentfield":"payment_schedule","parenttype":"Purchase Invoice","idx":1,"due_date":"2025-05-03","invoice_portion":100,"discount":0,"payment_amount":500,"outstanding":500,"paid_amount":0,"base_payment_amount":500,"base_outstanding":500,"base_paid_amount":0,"creation":"","modified_by":"Administrator","modified":"","lft":null,"rgt":null,"_amended_from":"hk00d58fl0"}],"status":"Cancelled","party_account_currency":"EUR","is_opening":"No","group_same_items":0,"on_hold":0,"is_internal_supplier":0,"represents_company":"","is_old_subcontracting_flow":0,"__run_link_triggers":false,"title":"fournisseur1","supplier":"fournisseur1","supplier_name":"fournisseur1","posting_time":"23:14:3.172184","due_date":"2025-05-03","conversion_rate":1,"plc_conversion_rate":1,"total_qty":1,"total_net_weight":0,"base_total":500,"base_net_total":500,"total":500,"net_total":500,"base_tax_withholding_net_total":500,"tax_category":"","base_taxes_and_charges_added":0,"base_taxes_and_charges_deducted":0,"base_total_taxes_and_charges":0,"taxes_and_charges_added":0,"taxes_and_charges_deducted":0,"total_taxes_and_charges":0,"base_grand_total":500,"base_rounding_adjustment":0,"base_rounded_total":500,"base_in_words":"","grand_total":500,"rounding_adjustment":0,"rounded_total":500,"in_words":"","total_advance":0,"outstanding_amount":500,"base_discount_amount":0,"additional_discount_percentage":0,"discount_amount":0,"base_paid_amount":0,"paid_amount":0,"write_off_amount":0,"base_write_off_amount":0,"shipping_address":"","shipping_address_display":"","billing_address":"","billing_address_display":"","per_received":0,"credit_to":"405 - Fournisseurs d\'immobilisations - Effets à payer - F","against_expense_account":"4088 - Fournisseurs - Intérêts courus - F","language":"fr","remarks":"Aucune Remarque","creation":"","modified_by":"Administrator","modified":"","lft":null,"rgt":null,"idx":null,"amended_from":"ACC-PINV-2025-00009","supplier_address":null,"address_display":null,"contact_person":null,"change_amount":0,"base_change_amount":0,"contact_display":null,"contact_email":null,"contact_mobile":null,"supplier_group":null,"tax_withholding_category":null}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
-2025-05-04 10:20:22,547 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"docstatus":0,"doctype":"Purchase Invoice","name":"new-purchase-invoice-rjlifkgklq","__islocal":1,"__unsaved":1,"owner":"Administrator","naming_series":"ACC-PINV-.YYYY.-","company":"fy","posting_date":"2025-05-03","set_posting_time":0,"is_paid":0,"is_return":0,"update_outstanding_for_self":1,"update_billed_amount_in_purchase_order":0,"update_billed_amount_in_purchase_receipt":1,"apply_tds":0,"currency":"EUR","use_transaction_date_exchange_rate":0,"buying_price_list":"Standard Buying","price_list_currency":"EUR","ignore_pricing_rule":0,"update_stock":0,"is_subcontracted":0,"items":[{"docstatus":0,"doctype":"Purchase Invoice Item","name":"new-purchase-invoice-item-btxzxvhhzd","__islocal":1,"__unsaved":1,"owner":"Administrator","conversion_factor":1,"stock_uom":"Nos","margin_type":"","is_free_item":0,"apply_tds":1,"use_serial_batch_fields":1,"is_fixed_asset":0,"enable_deferred_expense":0,"allow_zero_valuation_rate":0,"include_exploded_items":0,"cost_center":"Principal - F","page_break":0,"parent":"new-purchase-invoice-rjlifkgklq","parentfield":"items","parenttype":"Purchase Invoice","idx":1,"item_code":"SKU010","item_name":"Camera","description":"Camera","item_group":"Products","image":"https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg","received_qty":0,"qty":1,"rejected_qty":0,"uom":"Nos","stock_qty":1,"price_list_rate":500,"base_price_list_rate":500,"margin_rate_or_amount":0,"rate_with_margin":0,"discount_percentage":0,"discount_amount":0,"distributed_discount_amount":0,"base_rate_with_margin":0,"rate":500,"amount":500,"base_rate":500,"base_amount":500,"stock_uom_rate":500,"net_rate":500,"net_amount":500,"base_net_rate":500,"base_net_amount":500,"valuation_rate":500,"sales_incoming_rate":0,"item_tax_amount":0,"landed_cost_voucher_amount":0,"rm_supp_cost":0,"warehouse":"Magasins - F","expense_account":"4088 - Fournisseurs - Intérêts courus - F","item_tax_rate":"{}","purchase_order":"PUR-ORD-2025-00016","po_detail":"h4vnegk3ik","material_request":"MAT-MR-2025-00003","material_request_item":"f1c0iq5n1j","weight_per_unit":0,"total_weight":0,"creation":"","modified_by":"Administrator","modified":"","lft":null,"rgt":null,"_amended_from":"hk0ctf7i56","has_margin":false,"child_docname":"new-purchase-invoice-item-btxzxvhhzd"}],"tax_withholding_net_total":500,"taxes":[],"use_company_roundoff_cost_center":0,"disable_rounded_total":0,"apply_discount_on":"Grand Total","tax_withheld_vouchers":[],"pricing_rules":[],"supplied_items":[],"allocate_advances_automatically":0,"only_include_allocated_payments":0,"advances":[],"advance_tax":[],"ignore_default_payment_terms_template":0,"payment_schedule":[{"docstatus":0,"doctype":"Payment Schedule","name":"new-payment-schedule-tuyparfrxf","__islocal":1,"__unsaved":1,"owner":"Administrator","discount_type":"Percentage","discounted_amount":0,"parent":"new-purchase-invoice-rjlifkgklq","parentfield":"payment_schedule","parenttype":"Purchase Invoice","idx":1,"due_date":"2025-05-03","invoice_portion":100,"discount":0,"payment_amount":500,"outstanding":500,"paid_amount":0,"base_payment_amount":500,"base_outstanding":500,"base_paid_amount":0,"creation":"","modified_by":"Administrator","modified":"","lft":null,"rgt":null,"_amended_from":"hk00d58fl0"}],"status":"Cancelled","party_account_currency":"EUR","is_opening":"No","group_same_items":0,"on_hold":0,"is_internal_supplier":0,"represents_company":"","is_old_subcontracting_flow":0,"__run_link_triggers":false,"title":"fournisseur1","supplier":"fournisseur1","supplier_name":"fournisseur1","posting_time":"23:14:3.172184","due_date":"2025-05-03","conversion_rate":1,"plc_conversion_rate":1,"total_qty":1,"total_net_weight":0,"base_total":500,"base_net_total":500,"total":500,"net_total":500,"base_tax_withholding_net_total":500,"tax_category":"","base_taxes_and_charges_added":0,"base_taxes_and_charges_deducted":0,"base_total_taxes_and_charges":0,"taxes_and_charges_added":0,"taxes_and_charges_deducted":0,"total_taxes_and_charges":0,"base_grand_total":500,"base_rounding_adjustment":0,"base_rounded_total":500,"base_in_words":"","grand_total":500,"rounding_adjustment":0,"rounded_total":500,"in_words":"","total_advance":0,"outstanding_amount":500,"base_discount_amount":0,"additional_discount_percentage":0,"discount_amount":0,"base_paid_amount":0,"paid_amount":0,"write_off_amount":0,"base_write_off_amount":0,"shipping_address":"","shipping_address_display":"","billing_address":"","billing_address_display":"","per_received":0,"credit_to":"405 - Fournisseurs d\'immobilisations - Effets à payer - F","against_expense_account":"4088 - Fournisseurs - Intérêts courus - F","language":"fr","remarks":"Aucune Remarque","creation":"","modified_by":"Administrator","modified":"","lft":null,"rgt":null,"idx":null,"amended_from":"ACC-PINV-2025-00009","supplier_address":null,"address_display":null,"contact_person":null,"change_amount":0,"base_change_amount":0,"contact_display":null,"contact_email":null,"contact_mobile":null,"supplier_group":null,"tax_withholding_category":null}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
-2025-05-04 10:21:20,369 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'fournisseur1', 'paid_amount': 200, 'received_amount': 200, 'source_exchange_rate': 1.2, 'reference_no': 'ACC-PINV-2025-00009-1', 'reference_date': '2025-05-04', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00009-1', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}]}
-2025-05-04 10:34:22,696 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'fournisseur1', 'paid_amount': 200, 'received_amount': 200, 'source_exchange_rate': 1.2, 'reference_no': 'ACC-PINV-2025-00010', 'reference_date': '2025-05-04', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00010', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}]}
-2025-05-04 10:35:48,439 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'party_type': 'Supplier', 'party': 'fournisseur1', 'paid_amount': 200, 'received_amount': 200, 'source_exchange_rate': 1.2, 'reference_no': 'ACC-PINV-2025-00010', 'reference_date': '2025-05-04', 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00010', 'total_amount': 200, 'outstanding_amount': 200, 'allocated_amount': 200}]}
-2025-05-04 14:39:18,767 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"docstatus":0,"doctype":"Material Request","name":"new-material-request-jsnbftrkfq","__islocal":1,"__unsaved":1,"owner":"Administrator","naming_series":"MAT-MR-.YYYY.-","material_request_type":"Purchase","company":"fy (Demo)","transaction_date":"2025-05-04","items":[{"docstatus":0,"doctype":"Material Request Item","name":"new-material-request-item-inggnmhgii","__islocal":1,"__unsaved":1,"owner":"Administrator","stock_uom":"Nos","page_break":0,"parent":"new-material-request-jsnbftrkfq","parentfield":"items","parenttype":"Material Request","idx":1,"__checked":1,"image":"https://images.pexels.com/photos/1484808/pexels-photo-1484808.jpeg","item_code":"SKU001","rate":400,"uom":"Nos","item_name":"T-shirt","description":"T-shirt","warehouse":null,"income_account":"4191 - Clients - Avances et acomptes reçus sur commandes - FD","expense_account":"6072 - Marchandises (ou groupe) B - FD","discount_account":null,"provisional_expense_account":null,"cost_center":"Main - FD","has_serial_no":0,"has_batch_no":0,"batch_no":null,"min_order_qty":0,"qty":1,"stock_qty":1,"price_list_rate":400,"base_price_list_rate":0,"base_rate":0,"amount":400,"base_amount":0,"net_rate":0,"net_amount":0,"discount_percentage":0,"discount_amount":0,"update_stock":0,"delivered_by_supplier":0,"is_fixed_asset":0,"last_purchase_rate":400,"transaction_date":null,"against_blanket_order":null,"bom_no":null,"weight_per_unit":0,"weight_uom":null,"grant_commission":1,"conversion_factor":1,"item_group":"Products","brand":null,"manufacturer":null,"manufacturer_part_no":null,"item_tax_rate":"{}","has_margin":false,"free_item_data":[],"child_docname":null,"schedule_date":"2025-05-10"}],"status":"","transfer_status":"","schedule_date":"2025-05-10"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
-2025-05-04 14:39:41,338 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"docstatus":0,"doctype":"Material Request","name":"new-material-request-jsnbftrkfq","__islocal":1,"__unsaved":1,"owner":"Administrator","naming_series":"MAT-MR-.YYYY.-","material_request_type":"Purchase","company":"fy (Demo)","transaction_date":"2025-05-04","items":[{"docstatus":0,"doctype":"Material Request Item","name":"new-material-request-item-inggnmhgii","__islocal":1,"__unsaved":1,"owner":"Administrator","stock_uom":"Nos","page_break":0,"parent":"new-material-request-jsnbftrkfq","parentfield":"items","parenttype":"Material Request","idx":1,"__checked":1,"image":"https://images.pexels.com/photos/1484808/pexels-photo-1484808.jpeg","item_code":"SKU001","rate":400,"uom":"Nos","item_name":"T-shirt","description":"T-shirt","warehouse":null,"income_account":"4191 - Clients - Avances et acomptes reçus sur commandes - FD","expense_account":"6072 - Marchandises (ou groupe) B - FD","discount_account":null,"provisional_expense_account":null,"cost_center":"Main - FD","has_serial_no":0,"has_batch_no":0,"batch_no":null,"min_order_qty":0,"qty":1,"stock_qty":1,"price_list_rate":400,"base_price_list_rate":0,"base_rate":0,"amount":400,"base_amount":0,"net_rate":0,"net_amount":0,"discount_percentage":0,"discount_amount":0,"update_stock":0,"delivered_by_supplier":0,"is_fixed_asset":0,"last_purchase_rate":400,"transaction_date":null,"against_blanket_order":null,"bom_no":null,"weight_per_unit":0,"weight_uom":null,"grant_commission":1,"conversion_factor":1,"item_group":"Products","brand":null,"manufacturer":null,"manufacturer_part_no":null,"item_tax_rate":"{}","has_margin":false,"free_item_data":[],"child_docname":null,"schedule_date":"2025-05-10"}],"status":"","transfer_status":"","schedule_date":"2025-05-10"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
-2025-05-04 14:39:56,663 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"docstatus":0,"doctype":"Material Request","name":"new-material-request-jsnbftrkfq","__islocal":1,"__unsaved":1,"owner":"Administrator","naming_series":"MAT-MR-.YYYY.-","material_request_type":"Purchase","company":"fy (Demo)","transaction_date":"2025-05-04","items":[{"docstatus":0,"doctype":"Material Request Item","name":"new-material-request-item-inggnmhgii","__islocal":1,"__unsaved":1,"owner":"Administrator","stock_uom":"Nos","page_break":0,"parent":"new-material-request-jsnbftrkfq","parentfield":"items","parenttype":"Material Request","idx":1,"__checked":0,"image":"https://images.pexels.com/photos/1484808/pexels-photo-1484808.jpeg","item_code":"SKU001","rate":400,"uom":"Nos","item_name":"T-shirt","description":"T-shirt","warehouse":null,"income_account":"4191 - Clients - Avances et acomptes reçus sur commandes - FD","expense_account":"6072 - Marchandises (ou groupe) B - FD","discount_account":null,"provisional_expense_account":null,"cost_center":"Main - FD","has_serial_no":0,"has_batch_no":0,"batch_no":null,"min_order_qty":0,"qty":1,"stock_qty":1,"price_list_rate":400,"base_price_list_rate":0,"base_rate":0,"amount":400,"base_amount":0,"net_rate":0,"net_amount":0,"discount_percentage":0,"discount_amount":0,"update_stock":0,"delivered_by_supplier":0,"is_fixed_asset":0,"last_purchase_rate":400,"transaction_date":null,"against_blanket_order":null,"bom_no":null,"weight_per_unit":0,"weight_uom":null,"grant_commission":1,"conversion_factor":1,"item_group":"Products","brand":null,"manufacturer":null,"manufacturer_part_no":null,"item_tax_rate":"{}","has_margin":false,"free_item_data":[],"child_docname":null,"schedule_date":"2025-05-10"}],"status":"","transfer_status":"","schedule_date":"2025-05-10"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
-2025-05-04 23:47:03,444 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'payment_type': 'Pay', 'posting_date': '2025-05-04', 'party_type': 'Supplier', 'party': 'fournisseur1', 'paid_from': '533 - Caisse succursale (ou usine) B - FD', 'party_account': "405 - Fournisseurs d'immobilisations - Effets à payer - FD", 'paid_amount': 0.0, 'received_amount': 0.0, 'source_exchange_rate': 1, 'references': [{'reference_doctype': 'Purchase Invoice', 'reference_name': 'ACC-PINV-2025-00010', 'total_amount': 0.0, 'outstanding_amount': 0.0, 'allocated_amount': 0.0}]}
-2025-05-04 23:48:20,585 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name': 'general', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-05-04 23:48:37,153 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name': 'generalLedger', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-05-04 23:48:43,145 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'name': 'general', 'cmd': 'frappe.desk.desk_page.getpage'}
-2025-05-05 08:40:00,550 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"docstatus":0,"doctype":"Material Request","name":"new-material-request-orprkvqmqm","__islocal":1,"__unsaved":1,"owner":"Administrator","naming_series":"MAT-MR-.YYYY.-","material_request_type":"Purchase","company":"fy (Demo)","transaction_date":"2025-05-05","items":[{"docstatus":0,"doctype":"Material Request Item","name":"new-material-request-item-bnjglnqvka","__islocal":1,"__unsaved":1,"owner":"Administrator","stock_uom":"Nos","page_break":0,"parent":"new-material-request-orprkvqmqm","parentfield":"items","parenttype":"Material Request","idx":1,"schedule_date":"2025-05-07","image":"https://images.pexels.com/photos/1647976/pexels-photo-1647976.jpeg","item_code":"SKU004","rate":725,"uom":"Nos","item_name":"Smartphone","description":"Smartphone","warehouse":null,"income_account":"4191 - Clients - Avances et acomptes reçus sur commandes - FD","expense_account":"6072 - Marchandises (ou groupe) B - FD","discount_account":null,"provisional_expense_account":null,"cost_center":"Main - FD","has_serial_no":0,"has_batch_no":0,"batch_no":null,"min_order_qty":0,"qty":4,"stock_qty":4,"price_list_rate":725,"base_price_list_rate":0,"base_rate":0,"amount":2900,"base_amount":0,"net_rate":0,"net_amount":0,"discount_percentage":0,"discount_amount":0,"update_stock":0,"delivered_by_supplier":0,"is_fixed_asset":0,"last_purchase_rate":null,"transaction_date":null,"against_blanket_order":null,"bom_no":null,"weight_per_unit":0,"weight_uom":null,"grant_commission":1,"conversion_factor":1,"item_group":"Products","brand":null,"manufacturer":null,"manufacturer_part_no":null,"item_tax_rate":"{}","has_margin":false,"free_item_data":[],"child_docname":null},{"docstatus":0,"doctype":"Material Request Item","name":"new-material-request-item-yxmjagkuyb","__islocal":1,"__unsaved":1,"owner":"Administrator","stock_uom":"Nos","page_break":0,"parent":"new-material-request-orprkvqmqm","parentfield":"items","parenttype":"Material Request","idx":2,"__unedited":false,"cost_center":"Main - FD","schedule_date":"2025-05-07","image":"https://images.pexels.com/photos/8059376/pexels-photo-8059376.jpeg","item_code":"SKU007","rate":375,"uom":"Nos","item_name":"Television","description":"Television","warehouse":null,"income_account":"4191 - Clients - Avances et acomptes reçus sur commandes - FD","expense_account":"6072 - Marchandises (ou groupe) B - FD","discount_account":null,"provisional_expense_account":null,"has_serial_no":0,"has_batch_no":0,"batch_no":null,"min_order_qty":0,"qty":1,"stock_qty":1,"price_list_rate":375,"base_price_list_rate":0,"base_rate":0,"amount":375,"base_amount":0,"net_rate":0,"net_amount":0,"discount_percentage":0,"discount_amount":0,"update_stock":0,"delivered_by_supplier":0,"is_fixed_asset":0,"last_purchase_rate":375,"transaction_date":null,"against_blanket_order":null,"bom_no":null,"weight_per_unit":0,"weight_uom":null,"grant_commission":1,"conversion_factor":1,"item_group":"Products","brand":null,"manufacturer":null,"manufacturer_part_no":null,"item_tax_rate":"{}","has_margin":false,"free_item_data":[],"child_docname":null},{"docstatus":0,"doctype":"Material Request Item","name":"new-material-request-item-bczlnggsym","__islocal":1,"__unsaved":1,"owner":"Administrator","stock_uom":"Nos","page_break":0,"parent":"new-material-request-orprkvqmqm","parentfield":"items","parenttype":"Material Request","idx":3,"__unedited":false,"cost_center":"Main - FD","schedule_date":"2025-05-07","image":"https://images.pexels.com/photos/2422178/pexels-photo-2422178.jpeg","item_code":"SKU003","rate":523,"uom":"Nos","item_name":"Book","description":"Book","warehouse":null,"income_account":"4191 - Clients - Avances et acomptes reçus sur commandes - FD","expense_account":"6072 - Marchandises (ou groupe) B - FD","discount_account":null,"provisional_expense_account":null,"has_serial_no":0,"has_batch_no":0,"batch_no":null,"min_order_qty":0,"qty":10,"stock_qty":10,"price_list_rate":523,"base_price_list_rate":0,"base_rate":0,"amount":5230,"base_amount":0,"net_rate":0,"net_amount":0,"discount_percentage":0,"discount_amount":0,"update_stock":0,"delivered_by_supplier":0,"is_fixed_asset":0,"last_purchase_rate":null,"transaction_date":null,"against_blanket_order":null,"bom_no":null,"weight_per_unit":0,"weight_uom":null,"grant_commission":1,"conversion_factor":1,"item_group":"Products","brand":null,"manufacturer":null,"manufacturer_part_no":null,"item_tax_rate":"{}","has_margin":false,"free_item_data":[],"child_docname":null}],"status":"","transfer_status":"","schedule_date":"2025-05-07"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
-2025-05-05 08:40:16,229 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'doc': '{"docstatus":0,"doctype":"Material Request","name":"new-material-request-orprkvqmqm","__islocal":1,"__unsaved":1,"owner":"Administrator","naming_series":"MAT-MR-.YYYY.-","material_request_type":"Purchase","company":"fy (Demo)","transaction_date":"2025-05-05","items":[{"docstatus":0,"doctype":"Material Request Item","name":"new-material-request-item-bnjglnqvka","__islocal":1,"__unsaved":1,"owner":"Administrator","stock_uom":"Nos","page_break":0,"parent":"new-material-request-orprkvqmqm","parentfield":"items","parenttype":"Material Request","idx":1,"schedule_date":"2025-05-07","image":"https://images.pexels.com/photos/1647976/pexels-photo-1647976.jpeg","item_code":"SKU004","rate":725,"uom":"Nos","item_name":"Smartphone","description":"Smartphone","warehouse":null,"income_account":"4191 - Clients - Avances et acomptes reçus sur commandes - FD","expense_account":"6072 - Marchandises (ou groupe) B - FD","discount_account":null,"provisional_expense_account":null,"cost_center":"Main - FD","has_serial_no":0,"has_batch_no":0,"batch_no":null,"min_order_qty":0,"qty":4,"stock_qty":4,"price_list_rate":725,"base_price_list_rate":0,"base_rate":0,"amount":2900,"base_amount":0,"net_rate":0,"net_amount":0,"discount_percentage":0,"discount_amount":0,"update_stock":0,"delivered_by_supplier":0,"is_fixed_asset":0,"last_purchase_rate":null,"transaction_date":null,"against_blanket_order":null,"bom_no":null,"weight_per_unit":0,"weight_uom":null,"grant_commission":1,"conversion_factor":1,"item_group":"Products","brand":null,"manufacturer":null,"manufacturer_part_no":null,"item_tax_rate":"{}","has_margin":false,"free_item_data":[],"child_docname":null},{"docstatus":0,"doctype":"Material Request Item","name":"new-material-request-item-yxmjagkuyb","__islocal":1,"__unsaved":1,"owner":"Administrator","stock_uom":"Nos","page_break":0,"parent":"new-material-request-orprkvqmqm","parentfield":"items","parenttype":"Material Request","idx":2,"__unedited":false,"cost_center":"Main - FD","schedule_date":"2025-05-07","image":"https://images.pexels.com/photos/8059376/pexels-photo-8059376.jpeg","item_code":"SKU007","rate":375,"uom":"Nos","item_name":"Television","description":"Television","warehouse":null,"income_account":"4191 - Clients - Avances et acomptes reçus sur commandes - FD","expense_account":"6072 - Marchandises (ou groupe) B - FD","discount_account":null,"provisional_expense_account":null,"has_serial_no":0,"has_batch_no":0,"batch_no":null,"min_order_qty":0,"qty":1,"stock_qty":1,"price_list_rate":375,"base_price_list_rate":0,"base_rate":0,"amount":375,"base_amount":0,"net_rate":0,"net_amount":0,"discount_percentage":0,"discount_amount":0,"update_stock":0,"delivered_by_supplier":0,"is_fixed_asset":0,"last_purchase_rate":375,"transaction_date":null,"against_blanket_order":null,"bom_no":null,"weight_per_unit":0,"weight_uom":null,"grant_commission":1,"conversion_factor":1,"item_group":"Products","brand":null,"manufacturer":null,"manufacturer_part_no":null,"item_tax_rate":"{}","has_margin":false,"free_item_data":[],"child_docname":null},{"docstatus":0,"doctype":"Material Request Item","name":"new-material-request-item-bczlnggsym","__islocal":1,"__unsaved":1,"owner":"Administrator","stock_uom":"Nos","page_break":0,"parent":"new-material-request-orprkvqmqm","parentfield":"items","parenttype":"Material Request","idx":3,"__unedited":false,"cost_center":"Main - FD","schedule_date":"2025-05-07","image":"https://images.pexels.com/photos/2422178/pexels-photo-2422178.jpeg","item_code":"SKU003","rate":523,"uom":"Nos","item_name":"Book","description":"Book","warehouse":null,"income_account":"4191 - Clients - Avances et acomptes reçus sur commandes - FD","expense_account":"6072 - Marchandises (ou groupe) B - FD","discount_account":null,"provisional_expense_account":null,"has_serial_no":0,"has_batch_no":0,"batch_no":null,"min_order_qty":0,"qty":10,"stock_qty":10,"price_list_rate":523,"base_price_list_rate":0,"base_rate":0,"amount":5230,"base_amount":0,"net_rate":0,"net_amount":0,"discount_percentage":0,"discount_amount":0,"update_stock":0,"delivered_by_supplier":0,"is_fixed_asset":0,"last_purchase_rate":null,"transaction_date":null,"against_blanket_order":null,"bom_no":null,"weight_per_unit":0,"weight_uom":null,"grant_commission":1,"conversion_factor":1,"item_group":"Products","brand":null,"manufacturer":null,"manufacturer_part_no":null,"item_tax_rate":"{}","has_margin":false,"free_item_data":[],"child_docname":null}],"status":"","transfer_status":"","schedule_date":"2025-05-07"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
-2025-05-05 08:47:10,385 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'rate': 300}
-2025-05-05 08:47:55,357 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'rate': 300}
-2025-05-05 08:47:55,394 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'rate': 300}
-2025-05-05 08:49:53,290 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'rate': 300}
-2025-05-05 08:52:20,328 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'rate': 200}
-2025-05-05 08:53:29,318 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'rate': 300}
-2025-05-05 09:00:48,282 ERROR frappe New Exception collected in error log
-Site: erpnext.localhost
-Form Dict: {'rate': 300}
+Form Dict: {'item': '1', 'material_request': '1', 'quotation': '1', 'supplier_quotation': '1', 'purchase_order': '1', 'purchase_invoice': '1', 'payment_entry': '1', 'purchase_receipt': '1', 'supplier': '1', 'cmd': 'custom_reset.api.reset_data'}

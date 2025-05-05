@@ -17,5 +17,15 @@
         "required": [],
         "idx": 2,
         "version": "16.0.0-dev"
+    },
+    "custom_reset": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "27608eb1c78fab05bb1e3f7f35382f172b5dd510",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
     }
 }

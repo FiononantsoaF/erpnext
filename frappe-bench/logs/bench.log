@@ -271,3 +271,53 @@
 2025-05-05 08:24:01,229 INFO /home/fy/.local/bin/bench serve --port 8000
 2025-05-05 08:24:01,241 INFO /home/fy/.local/bin/bench worker
 2025-05-05 08:24:01,266 INFO /home/fy/.local/bin/bench schedule
+2025-05-05 12:00:01,566 INFO /home/fy/.local/bin/bench --verbose --site all backup
+2025-05-05 16:09:50,062 INFO /home/fy/.local/bin/bench start
+2025-05-05 16:09:50,361 INFO /home/fy/.local/bin/bench worker
+2025-05-05 16:09:50,373 INFO /home/fy/.local/bin/bench schedule
+2025-05-05 16:09:50,396 INFO /home/fy/.local/bin/bench serve --port 8000
+2025-05-05 16:09:50,468 INFO /home/fy/.local/bin/bench watch
+2025-05-05 16:14:58,900 INFO /home/fy/.local/bin/bench start
+2025-05-05 16:14:59,232 INFO /home/fy/.local/bin/bench watch
+2025-05-05 16:14:59,273 INFO /home/fy/.local/bin/bench worker
+2025-05-05 16:14:59,299 INFO /home/fy/.local/bin/bench schedule
+2025-05-05 16:14:59,612 INFO /home/fy/.local/bin/bench serve --port 8000
+2025-05-05 16:15:08,987 INFO /home/fy/.local/bin/bench restart
+2025-05-05 16:15:33,455 INFO /home/fy/.local/bin/bench start
+2025-05-05 16:15:33,770 INFO /home/fy/.local/bin/bench worker
+2025-05-05 16:15:33,770 INFO /home/fy/.local/bin/bench schedule
+2025-05-05 16:15:33,778 INFO /home/fy/.local/bin/bench watch
+2025-05-05 16:15:33,842 INFO /home/fy/.local/bin/bench serve --port 8000
+2025-05-05 16:18:17,842 INFO /home/fy/.local/bin/bench --site erpnext.localhost clear-cache
+2025-05-05 16:18:22,266 INFO /home/fy/.local/bin/bench start
+2025-05-05 16:18:22,559 INFO /home/fy/.local/bin/bench serve --port 8000
+2025-05-05 16:18:22,591 INFO /home/fy/.local/bin/bench worker
+2025-05-05 16:18:22,648 INFO /home/fy/.local/bin/bench watch
+2025-05-05 16:18:22,663 INFO /home/fy/.local/bin/bench schedule
+2025-05-05 16:29:59,798 INFO /home/fy/.local/bin/bench start
+2025-05-05 16:30:00,120 INFO /home/fy/.local/bin/bench watch
+2025-05-05 16:30:00,136 INFO /home/fy/.local/bin/bench schedule
+2025-05-05 16:30:00,194 INFO /home/fy/.local/bin/bench serve --port 8000
+2025-05-05 16:30:00,267 INFO /home/fy/.local/bin/bench worker
+2025-05-05 19:33:54,274 INFO /home/fy/.local/bin/bench new-app custom_reset
+2025-05-05 19:33:54,282 LOG creating new app custom_reset
+2025-05-05 19:36:05,990 LOG Installing custom_reset
+2025-05-05 19:36:05,992 DEBUG cd /home/fy/Documents/GitHub/erpnext/frappe-bench && /home/fy/Documents/GitHub/erpnext/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/fy/Documents/GitHub/erpnext/frappe-bench/apps/custom_reset 
+2025-05-05 19:36:09,136 DEBUG bench build --app custom_reset
+2025-05-05 19:36:09,254 INFO /home/fy/.local/bin/bench build --app custom_reset
+2025-05-05 19:37:38,952 INFO /home/fy/.local/bin/bench --site erpnext.localhost install-app custom_reset
+2025-05-05 19:37:47,128 INFO /home/fy/.local/bin/bench start
+2025-05-05 19:37:47,448 INFO /home/fy/.local/bin/bench serve --port 8000
+2025-05-05 19:37:47,452 INFO /home/fy/.local/bin/bench worker
+2025-05-05 19:37:47,509 INFO /home/fy/.local/bin/bench watch
+2025-05-05 19:37:47,510 INFO /home/fy/.local/bin/bench schedule
+2025-05-05 19:52:05,275 INFO /home/fy/.local/bin/bench start
+2025-05-05 19:52:05,570 INFO /home/fy/.local/bin/bench serve --port 8000
+2025-05-05 19:52:05,574 INFO /home/fy/.local/bin/bench watch
+2025-05-05 19:52:05,609 INFO /home/fy/.local/bin/bench schedule
+2025-05-05 19:52:05,673 INFO /home/fy/.local/bin/bench worker
+2025-05-05 20:17:32,652 INFO /home/fy/.local/bin/bench start
+2025-05-05 20:17:32,932 INFO /home/fy/.local/bin/bench schedule
+2025-05-05 20:17:32,975 INFO /home/fy/.local/bin/bench worker
+2025-05-05 20:17:33,020 INFO /home/fy/.local/bin/bench watch
+2025-05-05 20:17:33,026 INFO /home/fy/.local/bin/bench serve --port 8000
