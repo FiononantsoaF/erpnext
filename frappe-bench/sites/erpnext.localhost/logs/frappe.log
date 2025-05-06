@@ -76,3 +76,336 @@ Form Dict: {'item': '0', 'material_request': '0', 'quotation': '0', 'supplier_qu
 2025-05-05 20:19:56,719 ERROR frappe New Exception collected in error log
 Site: erpnext.localhost
 Form Dict: {'item': '1', 'material_request': '1', 'quotation': '1', 'supplier_quotation': '1', 'purchase_order': '1', 'purchase_invoice': '1', 'payment_entry': '1', 'purchase_receipt': '1', 'supplier': '1', 'cmd': 'custom_reset.api.reset_data'}
+2025-05-05 21:58:55,239 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\r\n02/05/2025,boulon,piece,02/06/2025,13,Purchase,All Warehouse,1\r\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2', 'file_name': 'import-fichier1.csv', 'file_index': '1', 'cmd': 'erpnext'}
+2025-05-05 22:08:00,898 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'name': '{1}', 'cmd': 'frappe.desk.desk_page.getpage'}
+2025-05-05 22:08:38,020 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'name': '{1}', 'cmd': 'frappe.desk.desk_page.getpage'}
+2025-05-05 22:29:21,946 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'file_index': '1', 'cmd': 'erpnext.data_import.page.import.import_data'}
+2025-05-05 22:30:24,856 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_data'}
+2025-05-05 23:04:49,217 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {}
+2025-05-05 23:04:59,414 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'limit_page_length': 20}
+2025-05-06 00:14:26,919 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Material Request","name":"new-material-request-pqfujxkgmt","__islocal":1,"__unsaved":1,"owner":"Administrator","naming_series":"MAT-MR-.YYYY.-","material_request_type":"Purchase","company":"fy (Demo)","transaction_date":"2025-05-05","items":[{"docstatus":0,"doctype":"Material Request Item","name":"new-material-request-item-qsmydrpjhx","__islocal":1,"__unsaved":1,"owner":"Administrator","stock_uom":"Nos","page_break":0,"parent":"new-material-request-pqfujxkgmt","parentfield":"items","parenttype":"Material Request","idx":1,"schedule_date":"2025-05-07","image":"","item_code":"camera","rate":0,"uom":"Nos","item_name":"camera","description":"camera","warehouse":null,"income_account":"4191 - Clients - Avances et acomptes reçus sur commandes - FD","expense_account":"6072 - Marchandises (ou groupe) B - FD","discount_account":null,"provisional_expense_account":null,"cost_center":"Main - FD","has_serial_no":0,"has_batch_no":0,"batch_no":null,"min_order_qty":0,"qty":1,"stock_qty":1,"price_list_rate":0,"base_price_list_rate":0,"base_rate":0,"amount":0,"base_amount":0,"net_rate":0,"net_amount":0,"discount_percentage":0,"discount_amount":0,"update_stock":0,"delivered_by_supplier":0,"is_fixed_asset":0,"last_purchase_rate":null,"transaction_date":null,"against_blanket_order":null,"bom_no":null,"weight_per_unit":0,"weight_uom":null,"grant_commission":1,"conversion_factor":1,"item_group":"Products","brand":null,"manufacturer":null,"manufacturer_part_no":null,"item_tax_rate":"{}","has_margin":false,"free_item_data":[],"child_docname":null}],"status":"","transfer_status":"","schedule_date":"2025-05-07"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-05-06 09:19:25,306 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'docstatus': 1}
+2025-05-06 09:41:18,645 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'rate': 300}
+2025-05-06 10:48:21,596 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'rate': 200}
+2025-05-06 10:48:29,459 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'rate': 200}
+2025-05-06 11:06:19,210 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:19,210 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:19,210 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:19,210 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:19,210 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:19,210 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:19,210 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:19,210 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:19,210 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:51,651 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:51,651 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:51,651 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:51,655 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:51,655 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:51,655 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:51,659 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:51,659 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:06:51,659 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:09:32,980 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:09:32,984 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:09:32,980 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:09:32,980 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:09:32,984 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:09:32,984 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:09:32,988 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:09:32,988 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:09:32,988 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:11:30,345 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:11:30,345 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:11:30,345 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:11:30,351 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:11:30,351 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:11:30,351 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:11:30,366 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:11:30,366 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:11:30,366 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:14:43,121 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:14:43,121 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:14:43,121 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:14:43,122 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:14:43,122 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:14:43,122 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:14:43,124 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:14:43,124 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:14:43,124 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:15:02,322 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:15:02,322 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:15:02,329 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:15:02,329 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:15:02,322 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:15:02,329 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:15:02,334 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:15:02,334 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:15:02,334 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:16:44,686 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:16:44,686 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:16:44,686 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:16:44,686 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:16:44,690 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:16:44,686 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:16:44,686 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:16:44,690 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:16:44,690 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:21,710 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:21,714 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:21,710 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:21,714 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:21,710 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:21,715 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:21,714 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:21,715 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:21,715 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:50,615 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:50,617 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:50,615 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:50,615 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:50,617 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:50,617 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:50,621 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:50,621 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:17:50,621 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:18:37,718 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:18:37,718 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:18:37,718 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:18:37,718 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:18:37,718 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:18:37,718 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:18:37,718 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:18:37,718 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:18:37,718 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:56:46,276 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:56:46,276 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:56:46,276 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'date,item_name,item_groupe,required_by,quantity,purpose,target_warehouse,ref\n02/05/2025,boulon,singa,02/06/2025,13,Purchase,All Warehouse,1\n02/05/2025,ciment,consommable,02/06/2025,5,Purchase,All Warehouse,2\n', 'file_name': 'import-fichier1.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:56:46,281 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:56:46,281 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:56:46,281 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'supplier_name,country,type\r\nSanifer,Madagascar,Company\r\nExxon,Usa,Company\r\nElectroplus,Madagascar,Company', 'file_name': 'import - fichier2.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:56:46,282 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:56:46,282 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
+2025-05-06 11:56:46,282 ERROR frappe New Exception collected in error log
+Site: erpnext.localhost
+Form Dict: {'csv_content': 'ref_request_quotation,supplier\r\n1,Sanifer\r\n1,Exxon\r\n2,Sanifer', 'file_name': 'import - fichier3.csv', 'cmd': 'erpnext.data_import.page.import.import_csv_file'}
